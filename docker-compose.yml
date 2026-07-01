@@ -1,14 +1,4 @@
 services:
-  samir:
-    container_name: rblf-tg-samir
-    build:
-      context: ./samir-proactive-auto-scaler
-      dockerfile: Dockerfile
-    ports:
-      - "8000:8000"
-    volumes:
-      - ./samir-proactive-auto-scaler:/app
-      - ./samir-proactive-auto-scaler/darts_logs:/app/darts_logs
 
   target-app:
     container_name: rblf-tg-target-app
