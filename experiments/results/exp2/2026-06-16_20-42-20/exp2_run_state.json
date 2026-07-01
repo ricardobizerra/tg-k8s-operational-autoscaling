@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "config": {
+    "models": [
+      "FFT"
+    ],
+    "datasets": [
+      "a-cpu"
+    ],
+    "scaling_modes": [
+      "combined"
+    ],
+    "trace_step_seconds": 30,
+    "trace_days": 30,
+    "batch_size": 1,
+    "cpu_trace_step_seconds": 15,
+    "ram_trace_step_seconds": 15
+  },
+  "completed": [
+    "tcc-fft-a-cpu-hv"
+  ],
+  "failed": [],
+  "pending": [],
+  "started_at": "2026-06-16T20:42:20.840944+00:00",
+  "last_updated": "2026-06-16T22:49:16.001131+00:00"
+}

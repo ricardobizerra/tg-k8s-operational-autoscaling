@@ -1,0 +1,1622 @@
+  Error on attempt 1/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: Error from server (NotFound): pods "target-app-54678f7884-kcqp5" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-54678f7884-kcqp5: kubectl exec failed: Error from server (NotFound): pods "target-app-54678f7884-kcqp5" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7d7746d958-9nsbg: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-9nsbg" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-z89q9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-59xvz: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-59xvz" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-x2b5n: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7cbb4bb8fd-4rx94: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-wqdwt: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-wqdwt" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-ghwkv" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-ghwkv" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-ghwkv" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-ghwkv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-ghwkv" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-5nrc8" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-5nrc8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-5nrc8" not found
+, retrying in 3s …
+RAM injector started: 757 points, starting at index 0, step=15s, namespace=tcc-ens-fft-prophet-c-cpu-hv
+Logging to: /app/k8s/load/traces/ram_injection_log.csv
+  [startup] waiting for pods in tcc-ens-fft-prophet-c-cpu-hv …
+[0/756] 2022-04-10T00:00:00  total_mb=4226  pods=2
+  → pod=target-app-54678f7884-kcqp5 status=ERROR  latency=0.0ms
+  → pod=target-app-7d7746d958-9nsbg status=ERROR  latency=0.0ms
+[1/756] 2022-04-10T00:40:00  total_mb=4320  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2624.3ms
+[2/756] 2022-04-10T01:20:00  total_mb=4443  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2605.4ms
+[3/756] 2022-04-10T02:00:00  total_mb=4514  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2408.3ms
+[4/756] 2022-04-10T02:40:00  total_mb=4518  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2722.1ms
+[5/756] 2022-04-10T03:20:00  total_mb=4520  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2295.8ms
+[6/756] 2022-04-10T04:00:00  total_mb=4516  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2432.6ms
+[7/756] 2022-04-10T04:40:00  total_mb=4533  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2401.3ms
+[8/756] 2022-04-10T05:20:00  total_mb=4808  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2567.2ms
+[9/756] 2022-04-10T06:00:00  total_mb=5148  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2642.1ms
+[10/756] 2022-04-10T06:40:00  total_mb=5222  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2892.5ms
+[11/756] 2022-04-10T07:20:00  total_mb=5236  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2924.0ms
+[12/756] 2022-04-10T08:00:00  total_mb=5293  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=3026.1ms
+[13/756] 2022-04-10T08:40:00  total_mb=5366  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2749.8ms
+[14/756] 2022-04-10T09:20:00  total_mb=5397  pods=1
+  → pod=target-app-757955768f-6cl7c status=200  latency=2903.1ms
+[15/756] 2022-04-10T10:00:00  total_mb=5395  pods=2
+  → pod=target-app-57f655b559-z89q9 status=200  latency=1373.0ms
+  → pod=target-app-757955768f-6cl7c status=200  latency=1814.0ms
+[16/756] 2022-04-10T10:40:00  total_mb=5414  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[17/756] 2022-04-10T11:20:00  total_mb=5406  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[18/756] 2022-04-10T12:00:00  total_mb=5509  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[19/756] 2022-04-10T12:40:00  total_mb=5467  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[20/756] 2022-04-10T13:20:00  total_mb=5468  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[21/756] 2022-04-10T14:00:00  total_mb=5473  pods=1
+  → pod=target-app-57f655b559-z89q9 status=ERROR  latency=0.0ms
+[22/756] 2022-04-10T14:40:00  total_mb=5501  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2561.0ms
+[23/756] 2022-04-10T15:20:00  total_mb=5573  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=3344.8ms
+[24/756] 2022-04-10T16:00:00  total_mb=5583  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=3161.7ms
+[25/756] 2022-04-10T16:40:00  total_mb=5601  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2982.0ms
+[26/756] 2022-04-10T17:20:00  total_mb=5598  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=3213.5ms
+[27/756] 2022-04-10T18:00:00  total_mb=5601  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=3051.3ms
+[28/756] 2022-04-10T18:40:00  total_mb=5736  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2953.0ms
+[29/756] 2022-04-10T19:20:00  total_mb=5733  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2957.8ms
+[30/756] 2022-04-10T20:00:00  total_mb=5735  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2821.5ms
+[31/756] 2022-04-10T20:40:00  total_mb=5751  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=3167.1ms
+[32/756] 2022-04-10T21:20:00  total_mb=4188  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2428.5ms
+[33/756] 2022-04-10T22:00:00  total_mb=4393  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2190.6ms
+[34/756] 2022-04-10T22:40:00  total_mb=4702  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2475.2ms
+[35/756] 2022-04-10T23:20:00  total_mb=4835  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2421.7ms
+[36/756] 2022-04-11T00:00:00  total_mb=4847  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2701.1ms
+[37/756] 2022-04-11T00:40:00  total_mb=4934  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2650.4ms
+[38/756] 2022-04-11T01:20:00  total_mb=5018  pods=1
+  → pod=target-app-757955768f-f5zwj status=200  latency=2761.5ms
+[39/756] 2022-04-11T02:00:00  total_mb=5108  pods=1
+  → pod=target-app-57f655b559-59xvz status=ERROR  latency=0.0ms
+[40/756] 2022-04-11T02:40:00  total_mb=5079  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[41/756] 2022-04-11T03:20:00  total_mb=5086  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[42/756] 2022-04-11T04:00:00  total_mb=5132  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[43/756] 2022-04-11T04:40:00  total_mb=5209  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[44/756] 2022-04-11T05:20:00  total_mb=5211  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[45/756] 2022-04-11T06:00:00  total_mb=5219  pods=1
+  → pod=target-app-7b58bf89f-x2b5n status=ERROR  latency=0.0ms
+[46/756] 2022-04-11T06:40:00  total_mb=5349  pods=1
+  → pod=target-app-7cbb4bb8fd-4rx94 status=ERROR  latency=0.0ms
+[47/756] 2022-04-11T07:20:00  total_mb=5443  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=2772.8ms
+[48/756] 2022-04-11T08:00:00  total_mb=5718  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=3131.2ms
+[49/756] 2022-04-11T08:40:00  total_mb=5750  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=2972.2ms
+[50/756] 2022-04-11T09:20:00  total_mb=5866  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=2994.2ms
+[51/756] 2022-04-11T10:00:00  total_mb=5947  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=3135.6ms
+[52/756] 2022-04-11T10:40:00  total_mb=6007  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=2977.3ms
+[53/756] 2022-04-11T11:20:00  total_mb=6020  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=200  latency=3268.9ms
+[54/756] 2022-04-11T12:00:00  total_mb=6135  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=ERROR  latency=0.0ms
+[55/756] 2022-04-11T12:40:00  total_mb=6142  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=ERROR  latency=0.0ms
+[56/756] 2022-04-11T13:20:00  total_mb=6140  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=ERROR  latency=0.0ms
+[57/756] 2022-04-11T14:00:00  total_mb=6249  pods=1
+  → pod=target-app-799b9dff59-wqdwt status=ERROR  latency=0.0ms
+[58/756] 2022-04-11T14:40:00  total_mb=6255  pods=1
+  → pod=target-app-7b58bf89f-ghwkv status=ERROR  latency=0.0ms
+[59/756] 2022-04-11T15:20:00  total_mb=6259  pods=1
+  → pod=target-app-7b58bf89f-ghwkv status=ERROR  latency=0.0ms
+[60/756] 2022-04-11T16:00:00  total_mb=6304  pods=1
+  → pod=target-app-799b9dff59-5nrc8 status=ERROR  latency=0.0ms
+[61/756] 2022-04-11T16:40:00  total_mb=6355  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3250.3ms
+[62/756] 2022-04-11T17:20:00  total_mb=6359  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3144.0ms
+[63/756] 2022-04-11T18:00:00  total_mb=6369  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3115.9ms
+[64/756] 2022-04-11T18:40:00  total_mb=6374  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3041.2ms
+[65/756] 2022-04-11T19:20:00  total_mb=6396  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2951.2ms
+  Error on attempt 1/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-fkdd8: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-fkdd8" not found
+, retrying in 3s …
+[66/756] 2022-04-11T20:00:00  total_mb=6394  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3082.6ms
+[67/756] 2022-04-11T20:40:00  total_mb=6426  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=3128.6ms
+[68/756] 2022-04-11T21:20:00  total_mb=4243  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2292.7ms
+[69/756] 2022-04-11T22:00:00  total_mb=4632  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2549.7ms
+[70/756] 2022-04-11T22:40:00  total_mb=4969  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2722.6ms
+[71/756] 2022-04-11T23:20:00  total_mb=5109  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2826.2ms
+[72/756] 2022-04-12T00:00:00  total_mb=5157  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2833.9ms
+[73/756] 2022-04-12T00:40:00  total_mb=5281  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2628.1ms
+[74/756] 2022-04-12T01:20:00  total_mb=5365  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2497.6ms
+[75/756] 2022-04-12T02:00:00  total_mb=5441  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2709.8ms
+[76/756] 2022-04-12T02:40:00  total_mb=5489  pods=1
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=2691.5ms
+[77/756] 2022-04-12T03:20:00  total_mb=5492  pods=2
+  → pod=target-app-55dc8c66cd-j22br status=200  latency=1647.9ms
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=1418.2ms
+[78/756] 2022-04-12T04:00:00  total_mb=5497  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2681.4ms
+[79/756] 2022-04-12T04:40:00  total_mb=5450  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2865.6ms
+[80/756] 2022-04-12T05:20:00  total_mb=5480  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=3364.1ms
+[81/756] 2022-04-12T06:00:00  total_mb=5484  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2583.7ms
+[82/756] 2022-04-12T06:40:00  total_mb=5504  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2802.1ms
+[83/756] 2022-04-12T07:20:00  total_mb=5582  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2981.2ms
+[84/756] 2022-04-12T08:00:00  total_mb=5596  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2732.8ms
+[85/756] 2022-04-12T08:40:00  total_mb=5625  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2716.1ms
+[86/756] 2022-04-12T09:20:00  total_mb=5910  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2777.3ms
+[87/756] 2022-04-12T10:00:00  total_mb=5969  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=2962.7ms
+[88/756] 2022-04-12T10:40:00  total_mb=5981  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=3170.7ms
+[89/756] 2022-04-12T11:20:00  total_mb=6009  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=200  latency=3058.9ms
+[90/756] 2022-04-12T12:00:00  total_mb=6156  pods=1
+  → pod=target-app-799b9dff59-fkdd8 status=ERROR  latency=0.0ms
+[91/756] 2022-04-12T12:40:00  total_mb=6269  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3014.9ms
+[92/756] 2022-04-12T13:20:00  total_mb=6288  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3046.2ms
+[93/756] 2022-04-12T14:00:00  total_mb=6295  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3183.2ms
+[94/756] 2022-04-12T14:40:00  total_mb=6439  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3387.2ms
+[95/756] 2022-04-12T15:20:00  total_mb=6441  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3052.2ms
+[96/756] 2022-04-12T16:00:00  total_mb=6446  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3352.8ms
+[97/756] 2022-04-12T16:40:00  total_mb=6453  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3274.4ms
+[98/756] 2022-04-12T17:20:00  total_mb=6473  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3386.4ms
+[99/756] 2022-04-12T18:00:00  total_mb=6564  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3243.2ms
+[100/756] 2022-04-12T18:40:00  total_mb=6577  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3545.4ms
+[101/756] 2022-04-12T19:20:00  total_mb=6582  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3411.9ms
+[102/756] 2022-04-12T20:00:00  total_mb=6589  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3357.3ms
+[103/756] 2022-04-12T20:40:00  total_mb=6598  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=3478.3ms
+[104/756] 2022-04-12T21:20:00  total_mb=4185  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=2412.3ms
+[105/756] 2022-04-12T22:00:00  total_mb=4396  pods=1
+  → pod=target-app-55dc8c66cd-clgjh status=200  latency=2226.7ms
+[106/756] 2022-04-12T22:40:00  total_mb=4583  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2390.6ms
+[107/756] 2022-04-12T23:20:00  total_mb=4870  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2569.3ms
+[108/756] 2022-04-13T00:00:00  total_mb=4916  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2746.2ms
+[109/756] 2022-04-13T00:40:00  total_mb=4998  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2378.5ms
+[110/756] 2022-04-13T01:20:00  total_mb=5042  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2783.2ms
+[111/756] 2022-04-13T02:00:00  total_mb=5114  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2665.1ms
+[112/756] 2022-04-13T02:40:00  total_mb=5259  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2557.5ms
+[113/756] 2022-04-13T03:20:00  total_mb=5277  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2624.8ms
+[114/756] 2022-04-13T04:00:00  total_mb=5299  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2918.1ms
+[115/756] 2022-04-13T04:40:00  total_mb=5302  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2625.8ms
+[116/756] 2022-04-13T05:20:00  total_mb=5369  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2759.7ms
+[117/756] 2022-04-13T06:00:00  total_mb=5370  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2934.3ms
+[118/756] 2022-04-13T06:40:00  total_mb=5492  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2569.6ms
+[119/756] 2022-04-13T07:20:00  total_mb=5558  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2809.8ms
+[120/756] 2022-04-13T08:00:00  total_mb=5582  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2624.7ms
+[121/756] 2022-04-13T08:40:00  total_mb=5679  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2928.1ms
+[122/756] 2022-04-13T09:20:00  total_mb=5899  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3461.8ms
+[123/756] 2022-04-13T10:00:00  total_mb=5931  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3148.0ms
+[124/756] 2022-04-13T10:40:00  total_mb=5983  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2989.1ms
+[125/756] 2022-04-13T11:20:00  total_mb=6046  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3077.0ms
+[126/756] 2022-04-13T12:00:00  total_mb=6025  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3416.7ms
+[127/756] 2022-04-13T12:40:00  total_mb=6008  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3034.8ms
+[128/756] 2022-04-13T13:20:00  total_mb=6010  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3028.8ms
+[129/756] 2022-04-13T14:00:00  total_mb=6074  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2995.8ms
+[130/756] 2022-04-13T14:40:00  total_mb=6027  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3007.4ms
+[131/756] 2022-04-13T15:20:00  total_mb=6036  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3125.6ms
+[132/756] 2022-04-13T16:00:00  total_mb=6058  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3355.3ms
+[133/756] 2022-04-13T16:40:00  total_mb=6120  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3503.1ms
+  Error on attempt 1/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w58nj" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-w58nj: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w58nj" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-lln7m" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-lln7m" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-lln7m" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-lln7m: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-lln7m" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-8gbx6: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gbx6" not found
+, retrying in 3s …
+[134/756] 2022-04-13T17:20:00  total_mb=6116  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2967.6ms
+[135/756] 2022-04-13T18:00:00  total_mb=6163  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3384.9ms
+[136/756] 2022-04-13T18:40:00  total_mb=6164  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3032.0ms
+[137/756] 2022-04-13T19:20:00  total_mb=6211  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=2973.5ms
+[138/756] 2022-04-13T20:00:00  total_mb=6215  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3102.0ms
+[139/756] 2022-04-13T20:40:00  total_mb=6220  pods=1
+  → pod=target-app-757955768f-v8fsx status=200  latency=3188.0ms
+[140/756] 2022-04-13T21:20:00  total_mb=4282  pods=2
+  → pod=target-app-57f655b559-w58nj status=200  latency=1138.8ms
+  → pod=target-app-757955768f-v8fsx status=200  latency=1359.1ms
+[141/756] 2022-04-13T22:00:00  total_mb=4418  pods=1
+  → pod=target-app-57f655b559-w58nj status=ERROR  latency=0.0ms
+[142/756] 2022-04-13T22:40:00  total_mb=4754  pods=1
+  → pod=target-app-57f655b559-w58nj status=ERROR  latency=0.0ms
+[143/756] 2022-04-13T23:20:00  total_mb=4906  pods=1
+  → pod=target-app-57f655b559-w58nj status=ERROR  latency=0.0ms
+[144/756] 2022-04-14T00:00:00  total_mb=4976  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2541.3ms
+[145/756] 2022-04-14T00:40:00  total_mb=4985  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2922.9ms
+[146/756] 2022-04-14T01:20:00  total_mb=5035  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2824.8ms
+[147/756] 2022-04-14T02:00:00  total_mb=5097  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3083.8ms
+[148/756] 2022-04-14T02:40:00  total_mb=5103  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2691.6ms
+[149/756] 2022-04-14T03:20:00  total_mb=5125  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2634.8ms
+[150/756] 2022-04-14T04:00:00  total_mb=5162  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2500.6ms
+[151/756] 2022-04-14T04:40:00  total_mb=5204  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3036.2ms
+[152/756] 2022-04-14T05:20:00  total_mb=5219  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2687.1ms
+[153/756] 2022-04-14T06:00:00  total_mb=5336  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3127.6ms
+[154/756] 2022-04-14T06:40:00  total_mb=5439  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2821.0ms
+[155/756] 2022-04-14T07:20:00  total_mb=5463  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2678.6ms
+[156/756] 2022-04-14T08:00:00  total_mb=5532  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3095.5ms
+[157/756] 2022-04-14T08:40:00  total_mb=5633  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2851.2ms
+[158/756] 2022-04-14T09:20:00  total_mb=5717  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=2791.3ms
+[159/756] 2022-04-14T10:00:00  total_mb=5811  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3353.8ms
+[160/756] 2022-04-14T10:40:00  total_mb=5885  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3066.4ms
+[161/756] 2022-04-14T11:20:00  total_mb=5887  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3402.8ms
+[162/756] 2022-04-14T12:00:00  total_mb=6025  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3244.7ms
+[163/756] 2022-04-14T12:40:00  total_mb=6080  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3155.8ms
+[164/756] 2022-04-14T13:20:00  total_mb=6083  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3458.8ms
+[165/756] 2022-04-14T14:00:00  total_mb=6111  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3422.9ms
+[166/756] 2022-04-14T14:40:00  total_mb=6190  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3294.7ms
+[167/756] 2022-04-14T15:20:00  total_mb=6150  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3510.3ms
+[168/756] 2022-04-14T16:00:00  total_mb=6146  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3230.6ms
+[169/756] 2022-04-14T16:40:00  total_mb=6194  pods=1
+  → pod=target-app-757955768f-xc66l status=200  latency=3488.1ms
+[170/756] 2022-04-14T17:20:00  total_mb=6199  pods=2
+  → pod=target-app-757955768f-xc66l status=200  latency=1794.2ms
+  → pod=target-app-7b58bf89f-lln7m status=200  latency=1530.9ms
+[171/756] 2022-04-14T18:00:00  total_mb=6209  pods=1
+  → pod=target-app-7b58bf89f-lln7m status=ERROR  latency=0.0ms
+[172/756] 2022-04-14T18:40:00  total_mb=6217  pods=1
+  → pod=target-app-7b58bf89f-lln7m status=ERROR  latency=0.0ms
+[173/756] 2022-04-14T19:20:00  total_mb=6179  pods=1
+  → pod=target-app-799b9dff59-8gbx6 status=ERROR  latency=0.0ms
+[174/756] 2022-04-14T20:00:00  total_mb=6169  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2729.4ms
+[175/756] 2022-04-14T20:40:00  total_mb=6182  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3090.2ms
+[176/756] 2022-04-14T21:20:00  total_mb=4185  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2361.1ms
+[177/756] 2022-04-14T22:00:00  total_mb=4339  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2399.1ms
+[178/756] 2022-04-14T22:40:00  total_mb=4608  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2317.6ms
+[179/756] 2022-04-14T23:20:00  total_mb=4841  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2882.7ms
+[180/756] 2022-04-15T00:00:00  total_mb=4925  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2614.4ms
+[181/756] 2022-04-15T00:40:00  total_mb=4926  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2840.6ms
+[182/756] 2022-04-15T01:20:00  total_mb=5013  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2563.7ms
+[183/756] 2022-04-15T02:00:00  total_mb=5046  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2565.2ms
+[184/756] 2022-04-15T02:40:00  total_mb=5131  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2744.3ms
+[185/756] 2022-04-15T03:20:00  total_mb=5141  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2682.0ms
+[186/756] 2022-04-15T04:00:00  total_mb=5201  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2608.8ms
+[187/756] 2022-04-15T04:40:00  total_mb=5182  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2649.4ms
+[188/756] 2022-04-15T05:20:00  total_mb=5171  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2836.3ms
+[189/756] 2022-04-15T06:00:00  total_mb=5181  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2478.0ms
+[190/756] 2022-04-15T06:40:00  total_mb=5231  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2853.4ms
+[191/756] 2022-04-15T07:20:00  total_mb=5466  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2872.5ms
+[192/756] 2022-04-15T08:00:00  total_mb=5538  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3142.1ms
+[193/756] 2022-04-15T08:40:00  total_mb=5573  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3011.1ms
+[194/756] 2022-04-15T09:20:00  total_mb=5809  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2793.8ms
+[195/756] 2022-04-15T10:00:00  total_mb=5964  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=2853.6ms
+[196/756] 2022-04-15T10:40:00  total_mb=6054  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3176.4ms
+[197/756] 2022-04-15T11:20:00  total_mb=6054  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3468.3ms
+[198/756] 2022-04-15T12:00:00  total_mb=6139  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3505.0ms
+[199/756] 2022-04-15T12:40:00  total_mb=6209  pods=1
+  → pod=target-app-757955768f-d46j7 status=200  latency=3301.4ms
+[200/756] 2022-04-15T13:20:00  total_mb=6256  pods=2
+  → pod=target-app-57f655b559-lxg7d status=200  latency=1616.6ms
+  Error on attempt 1/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-lxg7d" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-lxg7d" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-lxg7d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-lxg7d" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: error: cannot exec into a container in a completed pod; current phase is Failed
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-fpff9" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-fpff9" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-fpff9" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-fpff9" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-fpff9: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-fpff9" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gjrl" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gjrl" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gjrl" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gjrl" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-799b9dff59-8gjrl: kubectl exec failed: Error from server (NotFound): pods "target-app-799b9dff59-8gjrl" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-w2d5m: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-w2d5m" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-vfrhr: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-vfrhr" not found
+, retrying in 3s …
+  → pod=target-app-757955768f-d46j7 status=200  latency=1970.2ms
+[201/756] 2022-04-15T14:00:00  total_mb=6273  pods=1
+  → pod=target-app-57f655b559-lxg7d status=ERROR  latency=0.0ms
+[202/756] 2022-04-15T14:40:00  total_mb=6270  pods=1
+  → pod=target-app-7b58bf89f-fpff9 status=ERROR  latency=0.0ms
+[203/756] 2022-04-15T15:20:00  total_mb=6282  pods=1
+  → pod=target-app-799b9dff59-8gjrl status=ERROR  latency=0.0ms
+[204/756] 2022-04-15T16:00:00  total_mb=6317  pods=1
+  → pod=target-app-799b9dff59-8gjrl status=ERROR  latency=0.0ms
+[205/756] 2022-04-15T16:40:00  total_mb=6359  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3471.4ms
+[206/756] 2022-04-15T17:20:00  total_mb=6361  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3388.6ms
+[207/756] 2022-04-15T18:00:00  total_mb=6347  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3159.5ms
+[208/756] 2022-04-15T18:40:00  total_mb=6366  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3271.1ms
+[209/756] 2022-04-15T19:20:00  total_mb=6449  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3186.3ms
+[210/756] 2022-04-15T20:00:00  total_mb=6446  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3056.8ms
+[211/756] 2022-04-15T20:40:00  total_mb=6452  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3505.1ms
+[212/756] 2022-04-15T21:20:00  total_mb=4223  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2219.7ms
+[213/756] 2022-04-15T22:00:00  total_mb=4419  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2426.7ms
+[214/756] 2022-04-15T22:40:00  total_mb=4661  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2255.3ms
+[215/756] 2022-04-15T23:20:00  total_mb=4894  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2954.4ms
+[216/756] 2022-04-16T00:00:00  total_mb=4985  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2393.4ms
+[217/756] 2022-04-16T00:40:00  total_mb=5032  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2876.9ms
+[218/756] 2022-04-16T01:20:00  total_mb=5105  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2771.6ms
+[219/756] 2022-04-16T02:00:00  total_mb=5068  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2426.3ms
+[220/756] 2022-04-16T02:40:00  total_mb=5142  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2529.0ms
+[221/756] 2022-04-16T03:20:00  total_mb=5157  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2544.2ms
+[222/756] 2022-04-16T04:00:00  total_mb=5156  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2845.6ms
+[223/756] 2022-04-16T04:40:00  total_mb=5099  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2568.2ms
+[224/756] 2022-04-16T05:20:00  total_mb=5127  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3057.2ms
+[225/756] 2022-04-16T06:00:00  total_mb=5080  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2536.1ms
+[226/756] 2022-04-16T06:40:00  total_mb=5125  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2754.9ms
+[227/756] 2022-04-16T07:20:00  total_mb=5196  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2765.9ms
+[228/756] 2022-04-16T08:00:00  total_mb=5281  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2742.4ms
+[229/756] 2022-04-16T08:40:00  total_mb=5357  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=3047.8ms
+[230/756] 2022-04-16T09:20:00  total_mb=5350  pods=1
+  → pod=target-app-757955768f-bwdss status=200  latency=2560.9ms
+[231/756] 2022-04-16T10:00:00  total_mb=5357  pods=2
+  → pod=target-app-57f655b559-w2d5m status=200  latency=1425.7ms
+  → pod=target-app-757955768f-bwdss status=200  latency=1737.2ms
+[232/756] 2022-04-16T10:40:00  total_mb=5361  pods=1
+  → pod=target-app-57f655b559-w2d5m status=ERROR  latency=0.0ms
+[233/756] 2022-04-16T11:20:00  total_mb=5376  pods=1
+  → pod=target-app-7b58bf89f-vfrhr status=ERROR  latency=0.0ms
+[234/756] 2022-04-16T12:00:00  total_mb=5374  pods=1
+  → pod=target-app-7b58bf89f-vfrhr status=ERROR  latency=0.0ms
+[235/756] 2022-04-16T12:40:00  total_mb=5410  pods=1
+  → pod=target-app-7b58bf89f-vfrhr status=ERROR  latency=0.0ms
+[236/756] 2022-04-16T13:20:00  total_mb=5427  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2683.6ms
+[237/756] 2022-04-16T14:00:00  total_mb=5501  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2972.5ms
+[238/756] 2022-04-16T14:40:00  total_mb=5485  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2784.8ms
+[239/756] 2022-04-16T15:20:00  total_mb=5484  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2693.2ms
+[240/756] 2022-04-16T16:00:00  total_mb=5424  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2586.9ms
+[241/756] 2022-04-16T16:40:00  total_mb=5433  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3195.7ms
+[242/756] 2022-04-16T17:20:00  total_mb=5441  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2738.2ms
+[243/756] 2022-04-16T18:00:00  total_mb=5462  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3527.4ms
+[244/756] 2022-04-16T18:40:00  total_mb=5528  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3040.0ms
+[245/756] 2022-04-16T19:20:00  total_mb=5598  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3009.2ms
+[246/756] 2022-04-16T20:00:00  total_mb=5654  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3249.3ms
+[247/756] 2022-04-16T20:40:00  total_mb=5632  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=3258.1ms
+[248/756] 2022-04-16T21:20:00  total_mb=3817  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=1940.5ms
+[249/756] 2022-04-16T22:00:00  total_mb=3984  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=1960.3ms
+[250/756] 2022-04-16T22:40:00  total_mb=4046  pods=1
+  → pod=target-app-799b9dff59-7vktn status=200  latency=2053.7ms
+[251/756] 2022-04-16T23:20:00  total_mb=4148  pods=2
+  → pod=target-app-757955768f-45j57 status=200  latency=981.6ms
+  → pod=target-app-799b9dff59-7vktn status=200  latency=1194.1ms
+[252/756] 2022-04-17T00:00:00  total_mb=4227  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2368.8ms
+[253/756] 2022-04-17T00:40:00  total_mb=4364  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2199.5ms
+[254/756] 2022-04-17T01:20:00  total_mb=4464  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2360.3ms
+[255/756] 2022-04-17T02:00:00  total_mb=4471  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2145.0ms
+[256/756] 2022-04-17T02:40:00  total_mb=4496  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2320.4ms
+[257/756] 2022-04-17T03:20:00  total_mb=4510  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2101.8ms
+[258/756] 2022-04-17T04:00:00  total_mb=4478  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2331.0ms
+[259/756] 2022-04-17T04:40:00  total_mb=4549  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2416.9ms
+[260/756] 2022-04-17T05:20:00  total_mb=4902  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2505.9ms
+[261/756] 2022-04-17T06:00:00  total_mb=5050  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2593.5ms
+[262/756] 2022-04-17T06:40:00  total_mb=5075  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2907.6ms
+[263/756] 2022-04-17T07:20:00  total_mb=5079  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2752.8ms
+[264/756] 2022-04-17T08:00:00  total_mb=5120  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2966.1ms
+[265/756] 2022-04-17T08:40:00  total_mb=5174  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2642.7ms
+[266/756] 2022-04-17T09:20:00  total_mb=5267  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2586.3ms
+[267/756] 2022-04-17T10:00:00  total_mb=5400  pods=1
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  → pod=target-app-757955768f-45j57 status=200  latency=2627.4ms
+[268/756] 2022-04-17T10:40:00  total_mb=5487  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2916.4ms
+[269/756] 2022-04-17T11:20:00  total_mb=5500  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=3051.4ms
+[270/756] 2022-04-17T12:00:00  total_mb=5507  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2657.7ms
+[271/756] 2022-04-17T12:40:00  total_mb=5510  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2748.5ms
+[272/756] 2022-04-17T13:20:00  total_mb=5590  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2583.7ms
+[273/756] 2022-04-17T14:00:00  total_mb=5652  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=3106.7ms
+[274/756] 2022-04-17T14:40:00  total_mb=5657  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2743.2ms
+[275/756] 2022-04-17T15:20:00  total_mb=5657  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2835.9ms
+[276/756] 2022-04-17T16:00:00  total_mb=5660  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2823.4ms
+[277/756] 2022-04-17T16:40:00  total_mb=5678  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2867.9ms
+[278/756] 2022-04-17T17:20:00  total_mb=5736  pods=1
+  → pod=target-app-757955768f-45j57 status=200  latency=2953.8ms
+[279/756] 2022-04-17T18:00:00  total_mb=5743  pods=2
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=1373.5ms
+  → pod=target-app-757955768f-45j57 status=200  latency=1651.8ms
+[280/756] 2022-04-17T18:40:00  total_mb=5660  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2499.2ms
+[281/756] 2022-04-17T19:20:00  total_mb=5612  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=3134.5ms
+[282/756] 2022-04-17T20:00:00  total_mb=5607  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2545.7ms
+[283/756] 2022-04-17T20:40:00  total_mb=5613  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2744.3ms
+[284/756] 2022-04-17T21:20:00  total_mb=4141  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2026.0ms
+[285/756] 2022-04-17T22:00:00  total_mb=4237  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2449.7ms
+[286/756] 2022-04-17T22:40:00  total_mb=4493  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2493.2ms
+[287/756] 2022-04-17T23:20:00  total_mb=4813  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2783.9ms
+[288/756] 2022-04-18T00:00:00  total_mb=4909  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2750.7ms
+[289/756] 2022-04-18T00:40:00  total_mb=4922  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2841.0ms
+[290/756] 2022-04-18T01:20:00  total_mb=4943  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2459.6ms
+[291/756] 2022-04-18T02:00:00  total_mb=5070  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2636.8ms
+[292/756] 2022-04-18T02:40:00  total_mb=5158  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2754.0ms
+[293/756] 2022-04-18T03:20:00  total_mb=5169  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2960.7ms
+[294/756] 2022-04-18T04:00:00  total_mb=5176  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2656.0ms
+[295/756] 2022-04-18T04:40:00  total_mb=5241  pods=1
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=2834.0ms
+[296/756] 2022-04-18T05:20:00  total_mb=5273  pods=2
+  → pod=target-app-55dc8c66cd-hncf5 status=200  latency=1552.7ms
+  → pod=target-app-757955768f-kmvjk status=200  latency=1275.5ms
+[297/756] 2022-04-18T06:00:00  total_mb=5270  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2707.0ms
+[298/756] 2022-04-18T06:40:00  total_mb=5384  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2876.7ms
+[299/756] 2022-04-18T07:20:00  total_mb=5399  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2762.2ms
+[300/756] 2022-04-18T08:00:00  total_mb=4816  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2345.5ms
+[301/756] 2022-04-18T08:40:00  total_mb=4915  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2678.4ms
+[302/756] 2022-04-18T09:20:00  total_mb=4998  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2535.3ms
+[303/756] 2022-04-18T10:00:00  total_mb=5110  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2945.2ms
+[304/756] 2022-04-18T10:40:00  total_mb=5119  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2453.9ms
+[305/756] 2022-04-18T11:20:00  total_mb=5163  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2527.7ms
+[306/756] 2022-04-18T12:00:00  total_mb=5287  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2512.6ms
+[307/756] 2022-04-18T12:40:00  total_mb=5353  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2644.0ms
+[308/756] 2022-04-18T13:20:00  total_mb=5456  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2545.1ms
+[309/756] 2022-04-18T14:00:00  total_mb=5453  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2891.1ms
+[310/756] 2022-04-18T14:40:00  total_mb=5481  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2568.7ms
+[311/756] 2022-04-18T15:20:00  total_mb=5481  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2785.3ms
+[312/756] 2022-04-18T16:00:00  total_mb=5538  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2928.8ms
+[313/756] 2022-04-18T16:40:00  total_mb=5663  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=3134.2ms
+[314/756] 2022-04-18T17:20:00  total_mb=5732  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=3089.1ms
+[315/756] 2022-04-18T18:00:00  total_mb=5756  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2703.1ms
+[316/756] 2022-04-18T18:40:00  total_mb=5754  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2914.4ms
+[317/756] 2022-04-18T19:20:00  total_mb=5758  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2922.5ms
+[318/756] 2022-04-18T20:00:00  total_mb=5763  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=3090.9ms
+[319/756] 2022-04-18T20:40:00  total_mb=5761  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2903.2ms
+[320/756] 2022-04-18T21:20:00  total_mb=4227  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2122.6ms
+[321/756] 2022-04-18T22:00:00  total_mb=4351  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2585.3ms
+[322/756] 2022-04-18T22:40:00  total_mb=4686  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2367.6ms
+[323/756] 2022-04-18T23:20:00  total_mb=4843  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2530.9ms
+[324/756] 2022-04-19T00:00:00  total_mb=4949  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2367.9ms
+[325/756] 2022-04-19T00:40:00  total_mb=5037  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2823.4ms
+[326/756] 2022-04-19T01:20:00  total_mb=5040  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2600.8ms
+[327/756] 2022-04-19T02:00:00  total_mb=5123  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2902.1ms
+[328/756] 2022-04-19T02:40:00  total_mb=5287  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2602.6ms
+[329/756] 2022-04-19T03:20:00  total_mb=5294  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2447.5ms
+[330/756] 2022-04-19T04:00:00  total_mb=5218  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2761.4ms
+[331/756] 2022-04-19T04:40:00  total_mb=5240  pods=1
+  → pod=target-app-757955768f-kmvjk status=200  latency=2554.3ms
+[332/756] 2022-04-19T05:20:00  total_mb=5200  pods=2
+  → pod=target-app-757955768f-kmvjk status=200  latency=1526.2ms
+  → pod=target-app-7b58bf89f-5glrv status=200  latency=1370.5ms
+[333/756] 2022-04-19T06:00:00  total_mb=5192  pods=1
+  → pod=target-app-7b58bf89f-5glrv status=ERROR  latency=0.0ms
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-5glrv: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-5glrv" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: error: cannot exec into a container in a completed pod; current phase is Failed
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7cbb4bb8fd-rjw7d: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-rjw7d" not found
+, retrying in 3s …

@@ -1,0 +1,8 @@
+{
+  "target_col": "Total_Usage",
+  "freq": "40min",
+  "train_min": 0.0,
+  "train_max": 279.3219815008342,
+  "train_mean": 210.3101887567587,
+  "train_std": 58.854643977091186
+}

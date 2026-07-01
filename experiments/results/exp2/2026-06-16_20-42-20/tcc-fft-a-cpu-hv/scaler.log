@@ -1,0 +1,23 @@
+/usr/local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/usr/local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+2026-06-16T22:48:50 [INFO] scaler.main — Scaler starting: namespace=tcc-fft-a-cpu-hv model=FFT dataset=a-cpu mode=combined
+2026-06-16T22:48:50 [INFO] scaler.main — Scale Engine active: VM Cores=5.00, VM RAM=8.00GB | Real Cores=48.00, Real RAM=384.00GB
+2026-06-16T22:48:56 [WARNING] darts.models — The statsforecast module could not be imported. To enable support for the StatsForecastAutoARIMA, StatsForecastETS and Croston models, please consider installing it.
+2026-06-16T22:48:56 [INFO] predictor — Model loaded: FFT | dataset_slug=a-cpu | run_dir=/app/experiments/results/cegedim_application_A_CPU_exp1/FFT/20260609_011655
+2026-06-16T22:48:56 [INFO] predictor — Model loaded: FFT | dataset_slug=a-ram | run_dir=/app/experiments/results/cegedim_application_A_RAM_exp1/FFT/20260609_011655
+2026-06-16T22:48:56 [INFO] predictor — Secondary model loaded for combined mode: slug=a-ram
+2026-06-16T22:48:56 [INFO] k8s_scaler — Using in-cluster Kubernetes config
+2026-06-16T22:48:56 [INFO] metrics_recorder — MetricsRecorder: initialized scaling and warmup logs in /results
+2026-06-16T22:48:56 [INFO] scaler.main — Bootstrapping history: 30 minutes at 15s steps
+2026-06-16T22:48:56 [INFO] scaler.main — Bootstrap complete: cpu=13 rows, ram=121 rows
+2026-06-16T22:48:56 [WARNING] prometheus_client — Empty Prometheus result for query: sum(rate(container_cpu_usage_seconds_total{namespace="tcc-fft-a-cpu-hv",container="target-app"}[1m]))
+2026-06-16T22:48:56 [INFO] predictor — fit_predict.history: rows=87 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:27:15'), 'Total_Usage': 1.180129900579505}, {'timestamp_date_format': Timestamp('2026-06-16 22:27:30'), 'Total_Usage': 1.0612752799999998}, {'timestamp_date_format': Timestamp('2026-06-16 22:27:45'), 'Total_Usage': 1.0612752799999998}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:48:15'), 'Total_Usage': 0.6031007876923073}, {'timestamp_date_format': Timestamp('2026-06-16 22:48:30'), 'Total_Usage': 0.3015503938461537}, {'timestamp_date_format': Timestamp('2026-06-16 22:48:45'), 'Total_Usage': 0.0}]
+2026-06-16T22:48:56 [INFO] predictor — fit_predict.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 0.0}]
+2026-06-16T22:48:56 [INFO] predictor — fit_predict.raw_pred=0.3747508260085053 freq=15S
+2026-06-16T22:48:56 [INFO] predictor — fit_predict_secondary.history: rows=121 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:18:45'), 'Total_Usage': 9.3687744140625}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:00'), 'Total_Usage': 9.24847412109375}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:15'), 'Total_Usage': 9.24847412109375}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:48:15'), 'Total_Usage': 5.461669921875}, {'timestamp_date_format': Timestamp('2026-06-16 22:48:30'), 'Total_Usage': 5.58636474609375}, {'timestamp_date_format': Timestamp('2026-06-16 22:48:45'), 'Total_Usage': 5.68377685546875}]
+2026-06-16T22:48:56 [INFO] predictor — fit_predict_secondary.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 0.0}]
+2026-06-16T22:48:56 [INFO] predictor — fit_predict_secondary.raw_pred=7.151466479787616 freq=15S
+2026-06-16T22:48:56 [INFO] k8s_scaler — Ignoring vertical scale-down during 120s startup grace period.
+2026-06-16T22:48:56 [INFO] scaler.main — Cycle 0 | cpu=0.000→0.375 replicas=1→1 | ram=0.118GB→7.151GB mem=4096MB→4096MB | h=no_change v=cooldown | sla_cpu=False sla_ram=False

@@ -1,0 +1,279 @@
+{
+    "best_params": {
+        "backward_window": 18,
+        "forward_window": 24
+    },
+    "best_rmse_val": 1.7129572671321989,
+    "trials": [
+        {
+            "number": 0,
+            "value": 2.031110781858075,
+            "datetime_start": "2026-06-09 02:33:48.893641",
+            "datetime_complete": "2026-06-09 02:34:35.499696",
+            "duration": "0 days 00:00:46.606055",
+            "params_backward_window": 31,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 1,
+            "value": 2.013952170148354,
+            "datetime_start": "2026-06-09 02:34:35.500062",
+            "datetime_complete": "2026-06-09 02:35:15.281490",
+            "duration": "0 days 00:00:39.781428",
+            "params_backward_window": 13,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 2,
+            "value": 2.15716402554891,
+            "datetime_start": "2026-06-09 02:35:15.281899",
+            "datetime_complete": "2026-06-09 02:35:54.030981",
+            "duration": "0 days 00:00:38.749082",
+            "params_backward_window": 15,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 3,
+            "value": 2.020965419397421,
+            "datetime_start": "2026-06-09 02:35:54.031353",
+            "datetime_complete": "2026-06-09 02:36:41.912552",
+            "duration": "0 days 00:00:47.881199",
+            "params_backward_window": 27,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 4,
+            "value": 2.022303838307585,
+            "datetime_start": "2026-06-09 02:36:41.912970",
+            "datetime_complete": "2026-06-09 02:37:28.059044",
+            "duration": "0 days 00:00:46.146074",
+            "params_backward_window": 33,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 5,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:37:28.059412",
+            "datetime_complete": "2026-06-09 02:38:18.834108",
+            "duration": "0 days 00:00:50.774696",
+            "params_backward_window": 18,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 6,
+            "value": 2.0284382000393983,
+            "datetime_start": "2026-06-09 02:38:18.834503",
+            "datetime_complete": "2026-06-09 02:38:59.075526",
+            "duration": "0 days 00:00:40.241023",
+            "params_backward_window": 11,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 7,
+            "value": 1.9468860608430678,
+            "datetime_start": "2026-06-09 02:38:59.075946",
+            "datetime_complete": "2026-06-09 02:39:47.781525",
+            "duration": "0 days 00:00:48.705579",
+            "params_backward_window": 22,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 8,
+            "value": 2.137153173412497,
+            "datetime_start": "2026-06-09 02:39:47.781926",
+            "datetime_complete": "2026-06-09 02:40:32.553550",
+            "duration": "0 days 00:00:44.771624",
+            "params_backward_window": 37,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 9,
+            "value": 2.055532531202453,
+            "datetime_start": "2026-06-09 02:40:32.553944",
+            "datetime_complete": "2026-06-09 02:41:18.968787",
+            "duration": "0 days 00:00:46.414843",
+            "params_backward_window": 32,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 10,
+            "value": 2.0849361842318954,
+            "datetime_start": "2026-06-09 02:41:18.969181",
+            "datetime_complete": "2026-06-09 02:42:11.031114",
+            "duration": "0 days 00:00:52.061933",
+            "params_backward_window": 47,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 11,
+            "value": 1.9468860608430678,
+            "datetime_start": "2026-06-09 02:42:11.031617",
+            "datetime_complete": "2026-06-09 02:42:59.018356",
+            "duration": "0 days 00:00:47.986739",
+            "params_backward_window": 22,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 12,
+            "value": 1.9936323966865406,
+            "datetime_start": "2026-06-09 02:42:59.018740",
+            "datetime_complete": "2026-06-09 02:43:46.088856",
+            "duration": "0 days 00:00:47.070116",
+            "params_backward_window": 20,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 13,
+            "value": 2.0167165713703903,
+            "datetime_start": "2026-06-09 02:43:46.089250",
+            "datetime_complete": "2026-06-09 02:44:25.213598",
+            "duration": "0 days 00:00:39.124348",
+            "params_backward_window": 6,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 14,
+            "value": 1.9468860608430678,
+            "datetime_start": "2026-06-09 02:44:25.213997",
+            "datetime_complete": "2026-06-09 02:45:14.839430",
+            "duration": "0 days 00:00:49.625433",
+            "params_backward_window": 21,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 15,
+            "value": 2.198014040643621,
+            "datetime_start": "2026-06-09 02:45:14.839854",
+            "datetime_complete": "2026-06-09 02:45:58.900367",
+            "duration": "0 days 00:00:44.060513",
+            "params_backward_window": 25,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 16,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:45:58.900739",
+            "datetime_complete": "2026-06-09 02:46:50.684006",
+            "duration": "0 days 00:00:51.783267",
+            "params_backward_window": 17,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 17,
+            "value": 2.0167165713703903,
+            "datetime_start": "2026-06-09 02:46:50.684375",
+            "datetime_complete": "2026-06-09 02:47:29.133592",
+            "duration": "0 days 00:00:38.449217",
+            "params_backward_window": 6,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 18,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:47:29.133996",
+            "datetime_complete": "2026-06-09 02:48:20.382732",
+            "duration": "0 days 00:00:51.248736",
+            "params_backward_window": 17,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 19,
+            "value": 1.9756109489416955,
+            "datetime_start": "2026-06-09 02:48:20.383144",
+            "datetime_complete": "2026-06-09 02:48:58.999340",
+            "duration": "0 days 00:00:38.616196",
+            "params_backward_window": 10,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 20,
+            "value": 2.0102261533515278,
+            "datetime_start": "2026-06-09 02:48:58.999817",
+            "datetime_complete": "2026-06-09 02:49:47.407718",
+            "duration": "0 days 00:00:48.407901",
+            "params_backward_window": 41,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 21,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:49:47.408111",
+            "datetime_complete": "2026-06-09 02:50:38.824365",
+            "duration": "0 days 00:00:51.416254",
+            "params_backward_window": 17,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 22,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:50:38.824839",
+            "datetime_complete": "2026-06-09 02:51:29.692739",
+            "duration": "0 days 00:00:50.867900",
+            "params_backward_window": 18,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 23,
+            "value": 2.020965419397421,
+            "datetime_start": "2026-06-09 02:51:29.693132",
+            "datetime_complete": "2026-06-09 02:52:16.036312",
+            "duration": "0 days 00:00:46.343180",
+            "params_backward_window": 26,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 24,
+            "value": 2.15716402554891,
+            "datetime_start": "2026-06-09 02:52:16.036685",
+            "datetime_complete": "2026-06-09 02:52:55.660486",
+            "duration": "0 days 00:00:39.623801",
+            "params_backward_window": 15,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 25,
+            "value": 1.9756109489416955,
+            "datetime_start": "2026-06-09 02:52:55.660853",
+            "datetime_complete": "2026-06-09 02:53:34.418210",
+            "duration": "0 days 00:00:38.757357",
+            "params_backward_window": 10,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 26,
+            "value": 1.7129572671321989,
+            "datetime_start": "2026-06-09 02:53:34.418595",
+            "datetime_complete": "2026-06-09 02:54:24.520468",
+            "duration": "0 days 00:00:50.101873",
+            "params_backward_window": 18,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 27,
+            "value": 2.020965419397421,
+            "datetime_start": "2026-06-09 02:54:24.520826",
+            "datetime_complete": "2026-06-09 02:55:12.530442",
+            "duration": "0 days 00:00:48.009616",
+            "params_backward_window": 24,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 28,
+            "value": 2.020965419397421,
+            "datetime_start": "2026-06-09 02:55:12.530787",
+            "datetime_complete": "2026-06-09 02:55:59.472419",
+            "duration": "0 days 00:00:46.941632",
+            "params_backward_window": 29,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 29,
+            "value": 2.15716402554891,
+            "datetime_start": "2026-06-09 02:55:59.472771",
+            "datetime_complete": "2026-06-09 02:56:39.356342",
+            "duration": "0 days 00:00:39.883571",
+            "params_backward_window": 15,
+            "state": "COMPLETE"
+        }
+    ]
+}

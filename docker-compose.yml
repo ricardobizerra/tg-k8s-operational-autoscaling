@@ -1,0 +1,73 @@
+services:
+  samir:
+    container_name: rblf-tg-samir
+    build:
+      context: ./samir-proactive-auto-scaler
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./samir-proactive-auto-scaler:/app
+      - ./samir-proactive-auto-scaler/darts_logs:/app/darts_logs
+
+  target-app:
+    container_name: rblf-tg-target-app
+    image: tcc/target-app:latest
+    build:
+      context: ./experiments/k8s/app
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+
+  scaler:
+    container_name: rblf-tg-scaler
+    image: tcc/scaler:latest
+    build:
+      context: ./experiments
+      dockerfile: k8s/scaler/Dockerfile
+
+  experiments:
+    container_name: rblf-tg-experiments
+    build:
+      context: ./experiments
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./experiments:/app
+      - ./experiments/darts_logs:/app/darts_logs
+
+  exp2-trace-generator:
+    container_name: rblf-tg-exp2-trace
+    build:
+      context: ./experiments
+      dockerfile: Dockerfile.load
+    volumes:
+      - ./experiments:/app
+
+  exp2-analyzer:
+    container_name: rblf-tg-exp2-analyzer
+    build:
+      context: ./experiments
+      dockerfile: Dockerfile.analyzer
+    volumes:
+      - ./experiments:/app
+
+  exp2-locust:
+    container_name: rblf-tg-exp2-locust
+    build:
+      context: ./experiments
+      dockerfile: Dockerfile.load
+    network_mode: "host"
+    volumes:
+      - ./experiments:/app
+
+  exp2-orchestrator:
+    container_name: rblf-tg-exp2-orchestrator
+    build:
+      context: ./experiments
+      dockerfile: Dockerfile.orchestrator
+    network_mode: "host"
+    volumes:
+      - ./experiments:/app
+      - ~/.kube:/root/.kube:ro

@@ -1,0 +1,38 @@
+{
+    "dataset": "cegedim_application_B_RAM_exp1",
+    "target_col": "Total_Usage",
+    "model_type": "ExponentialSmoothing",
+    "best_params": {
+        "trend": "none",
+        "seasonal": "additive",
+        "seasonal_periods": 12
+    },
+    "metrics": {
+        "validation": {
+            "MAE": 166.64878501104747,
+            "RMSE": 186.49434797734767,
+            "SMAPE": 49.21629099005933,
+            "MASE": 5.173729491999702,
+            "RMSSE": 2.5899795812240574,
+            "R2": -2.919629844017831,
+            "NMAE": 0.5874816642045808,
+            "NRMSE": 0.6574425964594781,
+            "STD_ERRORS": 93.22194736898136
+        },
+        "test": {
+            "MAE": 97.11877767511362,
+            "RMSE": 123.76154132294725,
+            "SMAPE": 28.079782319448572,
+            "MASE": 3.0267500641088825,
+            "RMSSE": 1.7404622281082371,
+            "R2": -0.6297937568170511,
+            "NMAE": 0.27136110886567033,
+            "NRMSE": 0.34580407509520433,
+            "STD_ERRORS": 96.59652199023694,
+            "FIT_TIME_TOTAL": 0.0872492790222168,
+            "PREDICT_TIME_TOTAL": 0.014792680740356445,
+            "FIT_TIME_AVG": 0.0872492790222168,
+            "PREDICT_TIME_AVG": 0.014792680740356445
+        }
+    }
+}

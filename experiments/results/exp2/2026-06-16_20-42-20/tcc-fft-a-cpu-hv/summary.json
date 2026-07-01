@@ -1,0 +1,52 @@
+{
+  "namespace": "tcc-fft-a-cpu-hv",
+  "model_name": "FFT",
+  "dataset_slug": "a-cpu",
+  "scaling_mode": "combined",
+  "total_cycles": 337,
+  "total_duration_seconds": 7566.8,
+  "prediction_metrics": {
+    "cpu": {
+      "MAE": 0.060866152842112074,
+      "RMSE": 0.116184420101552,
+      "R2": -0.1902078172417785,
+      "BIAS": 0.010926663209912181
+    },
+    "ram": {
+      "MAE": 3.14729548846969,
+      "RMSE": 3.503223243828118,
+      "R2": 0.030531675632658906,
+      "BIAS": -0.047107139886842654
+    }
+  },
+  "operational_metrics": {
+    "sla_cpu_violation_count": 3,
+    "sla_cpu_violation_rate": 0.008902077151335312,
+    "mtbv_cpu_seconds": 2522.3,
+    "sla_ram_violation_count": 97,
+    "sla_ram_violation_rate": 0.2878338278931751,
+    "mtbv_ram_seconds": 78.0,
+    "overprovision_cpu_minutes": 0,
+    "waste_ratio_cpu": 0.0,
+    "overprovision_ram_minutes": 57.25,
+    "waste_ratio_ram": 0.6795,
+    "oscillation_horizontal_count": 0,
+    "oscillation_vertical_count": 10,
+    "scale_up_horizontal_count": 0,
+    "scale_down_horizontal_count": 0,
+    "scale_up_vertical_count": 16,
+    "scale_down_vertical_count": 12,
+    "pod_restart_count": 28,
+    "avg_replicas": 1.0,
+    "avg_memory_mb": 3901.53,
+    "refit_skip_count": 2,
+    "avg_fit_time_cpu_seconds": 0.008742781632014099,
+    "max_fit_time_cpu_seconds": 0.03833693599972321,
+    "avg_predict_time_cpu_seconds": 0.0020923222284859374,
+    "max_predict_time_cpu_seconds": 0.04048753500046587,
+    "avg_fit_time_ram_seconds": 0.008203160317528756,
+    "max_fit_time_ram_seconds": 0.0447321589999774,
+    "avg_predict_time_ram_seconds": 0.0019390198724084078,
+    "max_predict_time_ram_seconds": 0.01142469299975346
+  }
+}

@@ -1,0 +1,278 @@
+{
+    "best_params": {
+        "trend": null
+    },
+    "best_rmse_val": 0.015431308714957672,
+    "trials": [
+        {
+            "number": 0,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:10.250015",
+            "datetime_complete": "2026-06-09 01:17:10.305071",
+            "duration": "0 days 00:00:00.055056",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 1,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.305263",
+            "datetime_complete": "2026-06-09 01:17:10.351505",
+            "duration": "0 days 00:00:00.046242",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 2,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.351743",
+            "datetime_complete": "2026-06-09 01:17:10.396610",
+            "duration": "0 days 00:00:00.044867",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 3,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.396801",
+            "datetime_complete": "2026-06-09 01:17:10.443136",
+            "duration": "0 days 00:00:00.046335",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 4,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.443310",
+            "datetime_complete": "2026-06-09 01:17:10.489812",
+            "duration": "0 days 00:00:00.046502",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 5,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:10.489987",
+            "datetime_complete": "2026-06-09 01:17:10.545428",
+            "duration": "0 days 00:00:00.055441",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 6,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:10.545595",
+            "datetime_complete": "2026-06-09 01:17:10.608982",
+            "duration": "0 days 00:00:00.063387",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 7,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:10.609192",
+            "datetime_complete": "2026-06-09 01:17:10.665769",
+            "duration": "0 days 00:00:00.056577",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 8,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:10.665955",
+            "datetime_complete": "2026-06-09 01:17:10.725320",
+            "duration": "0 days 00:00:00.059365",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 9,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.725513",
+            "datetime_complete": "2026-06-09 01:17:10.773505",
+            "duration": "0 days 00:00:00.047992",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 10,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.773737",
+            "datetime_complete": "2026-06-09 01:17:10.822834",
+            "duration": "0 days 00:00:00.049097",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 11,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.823068",
+            "datetime_complete": "2026-06-09 01:17:10.872274",
+            "duration": "0 days 00:00:00.049206",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 12,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.872529",
+            "datetime_complete": "2026-06-09 01:17:10.920765",
+            "duration": "0 days 00:00:00.048236",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 13,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.920993",
+            "datetime_complete": "2026-06-09 01:17:10.968179",
+            "duration": "0 days 00:00:00.047186",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 14,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:10.968356",
+            "datetime_complete": "2026-06-09 01:17:11.019275",
+            "duration": "0 days 00:00:00.050919",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 15,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.019472",
+            "datetime_complete": "2026-06-09 01:17:11.065348",
+            "duration": "0 days 00:00:00.045876",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 16,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.065546",
+            "datetime_complete": "2026-06-09 01:17:11.112705",
+            "duration": "0 days 00:00:00.047159",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 17,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.112907",
+            "datetime_complete": "2026-06-09 01:17:11.158543",
+            "duration": "0 days 00:00:00.045636",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 18,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.158777",
+            "datetime_complete": "2026-06-09 01:17:11.206157",
+            "duration": "0 days 00:00:00.047380",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 19,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.206377",
+            "datetime_complete": "2026-06-09 01:17:11.251981",
+            "duration": "0 days 00:00:00.045604",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 20,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.252158",
+            "datetime_complete": "2026-06-09 01:17:11.299058",
+            "duration": "0 days 00:00:00.046900",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 21,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.299234",
+            "datetime_complete": "2026-06-09 01:17:11.344558",
+            "duration": "0 days 00:00:00.045324",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 22,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.344750",
+            "datetime_complete": "2026-06-09 01:17:11.389774",
+            "duration": "0 days 00:00:00.045024",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 23,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.389951",
+            "datetime_complete": "2026-06-09 01:17:11.435933",
+            "duration": "0 days 00:00:00.045982",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 24,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.436194",
+            "datetime_complete": "2026-06-09 01:17:11.483404",
+            "duration": "0 days 00:00:00.047210",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 25,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.483640",
+            "datetime_complete": "2026-06-09 01:17:11.531467",
+            "duration": "0 days 00:00:00.047827",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 26,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:11.531705",
+            "datetime_complete": "2026-06-09 01:17:11.586471",
+            "duration": "0 days 00:00:00.054766",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        },
+        {
+            "number": 27,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.586681",
+            "datetime_complete": "2026-06-09 01:17:11.632202",
+            "duration": "0 days 00:00:00.045521",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 28,
+            "value": 0.015431308714957672,
+            "datetime_start": "2026-06-09 01:17:11.632415",
+            "datetime_complete": "2026-06-09 01:17:11.679853",
+            "duration": "0 days 00:00:00.047438",
+            "params_trend": null,
+            "state": "COMPLETE"
+        },
+        {
+            "number": 29,
+            "value": 0.020548136917719267,
+            "datetime_start": "2026-06-09 01:17:11.680042",
+            "datetime_complete": "2026-06-09 01:17:11.736560",
+            "duration": "0 days 00:00:00.056518",
+            "params_trend": "poly",
+            "state": "COMPLETE"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+FROM python:3.9.25
+WORKDIR /app
+COPY k8s/load/requirements.txt load-reqs.txt
+RUN pip install -r load-reqs.txt

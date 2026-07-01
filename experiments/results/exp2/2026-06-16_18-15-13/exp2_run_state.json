@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "config": {
+    "models": [
+      "Prophet"
+    ],
+    "datasets": [
+      "a-cpu"
+    ],
+    "scaling_modes": [
+      "combined"
+    ],
+    "trace_step_seconds": 30,
+    "trace_days": 30,
+    "batch_size": 1,
+    "cpu_trace_step_seconds": 15,
+    "ram_trace_step_seconds": 15
+  },
+  "completed": [
+    "tcc-prophet-a-cpu-hv"
+  ],
+  "failed": [],
+  "pending": [],
+  "started_at": "2026-06-16T18:15:13.361602+00:00",
+  "last_updated": "2026-06-16T20:22:29.067604+00:00"
+}

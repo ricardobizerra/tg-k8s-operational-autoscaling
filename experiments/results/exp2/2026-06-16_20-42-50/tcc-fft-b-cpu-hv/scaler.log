@@ -1,0 +1,22 @@
+/usr/local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/usr/local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+2026-06-16T22:49:19 [INFO] scaler.main — Scaler starting: namespace=tcc-fft-b-cpu-hv model=FFT dataset=b-cpu mode=combined
+2026-06-16T22:49:19 [INFO] scaler.main — Scale Engine active: VM Cores=5.00, VM RAM=8.00GB | Real Cores=32.00, Real RAM=1024.00GB
+2026-06-16T22:49:25 [WARNING] darts.models — The statsforecast module could not be imported. To enable support for the StatsForecastAutoARIMA, StatsForecastETS and Croston models, please consider installing it.
+2026-06-16T22:49:25 [INFO] predictor — Model loaded: FFT | dataset_slug=b-cpu | run_dir=/app/experiments/results/cegedim_application_B_CPU_exp1/FFT/20260609_011655
+2026-06-16T22:49:25 [INFO] predictor — Model loaded: FFT | dataset_slug=b-ram | run_dir=/app/experiments/results/cegedim_application_B_RAM_exp1/FFT/20260609_011655
+2026-06-16T22:49:25 [INFO] predictor — Secondary model loaded for combined mode: slug=b-ram
+2026-06-16T22:49:25 [INFO] k8s_scaler — Using in-cluster Kubernetes config
+2026-06-16T22:49:25 [INFO] metrics_recorder — MetricsRecorder: initialized scaling and warmup logs in /results
+2026-06-16T22:49:25 [INFO] scaler.main — Bootstrapping history: 30 minutes at 15s steps
+2026-06-16T22:49:25 [INFO] scaler.main — Bootstrap complete: cpu=121 rows, ram=121 rows
+2026-06-16T22:49:25 [INFO] predictor — fit_predict.history: rows=121 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:19:15'), 'Total_Usage': 3.403795379417406}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:30'), 'Total_Usage': 3.0216376108299823}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:45'), 'Total_Usage': 2.263573153636571}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:48:45'), 'Total_Usage': 2.8296534269857165}, {'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 3.4710103422683787}, {'timestamp_date_format': Timestamp('2026-06-16 22:49:15'), 'Total_Usage': 3.4729881216245877}]
+2026-06-16T22:49:25 [INFO] predictor — fit_predict.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:30'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:30'), 'Total_Usage': 0.0}]
+2026-06-16T22:49:25 [INFO] predictor — fit_predict.raw_pred=2.416021689853538 freq=15S
+2026-06-16T22:49:25 [INFO] predictor — fit_predict_secondary.history: rows=121 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:19:15'), 'Total_Usage': 614.95263671875}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:30'), 'Total_Usage': 614.43896484375}, {'timestamp_date_format': Timestamp('2026-06-16 22:19:45'), 'Total_Usage': 616.69580078125}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:48:45'), 'Total_Usage': 457.6591796875}, {'timestamp_date_format': Timestamp('2026-06-16 22:49:00'), 'Total_Usage': 697.77490234375}, {'timestamp_date_format': Timestamp('2026-06-16 22:49:15'), 'Total_Usage': 697.78125}]
+2026-06-16T22:49:25 [INFO] predictor — fit_predict_secondary.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:30'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 22:49:30'), 'Total_Usage': 0.0}]
+2026-06-16T22:49:25 [INFO] predictor — fit_predict_secondary.raw_pred=683.7047234844399 freq=15S
+2026-06-16T22:49:25 [INFO] k8s_scaler — Patching memory → limit=6144Mi request=256Mi
+2026-06-16T22:49:25 [INFO] scaler.main — Cycle 0 | cpu=0.543→2.416 replicas=1→1 | ram=5.451GB→683.705GB mem=4096MB→6144MB | h=no_change v=scale_up | sla_cpu=True sla_ram=False

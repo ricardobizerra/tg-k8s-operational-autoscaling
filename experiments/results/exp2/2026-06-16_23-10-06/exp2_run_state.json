@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "config": {
+    "models": [
+      "Ensemble"
+    ],
+    "datasets": [
+      "a-cpu"
+    ],
+    "scaling_modes": [
+      "combined"
+    ],
+    "trace_step_seconds": 30,
+    "trace_days": 30,
+    "batch_size": 1,
+    "cpu_trace_step_seconds": 15,
+    "ram_trace_step_seconds": 15
+  },
+  "completed": [
+    "tcc-ens-expsm-fft-prophet-a-cpu-hv"
+  ],
+  "failed": [],
+  "pending": [],
+  "started_at": "2026-06-16T23:10:06.559725+00:00",
+  "last_updated": "2026-06-17T01:17:24.873562+00:00"
+}

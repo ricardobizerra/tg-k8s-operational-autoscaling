@@ -1,0 +1,8 @@
+tests/
+requirements-dev.txt
+pytest.ini
+.coveragerc
+.pytest_cache/
+**/__pycache__/
+**/*.pyc
+*.pyc

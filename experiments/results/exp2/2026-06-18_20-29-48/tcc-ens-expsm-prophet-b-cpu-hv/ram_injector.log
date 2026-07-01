@@ -1,0 +1,1767 @@
+  Error on attempt 1/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: Error from server (NotFound): pods "target-app-54678f7884-bxl8x" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: Error from server (NotFound): pods "target-app-54678f7884-bxl8x" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-54678f7884-bxl8x: kubectl exec failed: Error from server (NotFound): pods "target-app-54678f7884-bxl8x" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7d7746d958-ccsnh: kubectl exec failed: Error from server (NotFound): pods "target-app-7d7746d958-ccsnh" not found
+, retrying in 3s …
+RAM injector started: 757 points, starting at index 0, step=15s, namespace=tcc-ens-expsm-prophet-b-cpu-hv
+Logging to: /app/k8s/load/traces/ram_injection_log.csv
+  [startup] waiting for pods in tcc-ens-expsm-prophet-b-cpu-hv …
+[0/756] 2022-04-10T00:00:00  total_mb=2109  pods=2
+  → pod=target-app-54678f7884-bxl8x status=ERROR  latency=0.0ms
+  → pod=target-app-7d7746d958-ccsnh status=ERROR  latency=0.0ms
+[1/756] 2022-04-10T00:40:00  total_mb=2134  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1264.1ms
+[2/756] 2022-04-10T01:20:00  total_mb=2123  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1643.8ms
+[3/756] 2022-04-10T02:00:00  total_mb=2106  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1261.2ms
+[4/756] 2022-04-10T02:40:00  total_mb=2115  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1259.2ms
+[5/756] 2022-04-10T03:20:00  total_mb=2135  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1351.3ms
+[6/756] 2022-04-10T04:00:00  total_mb=2138  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1832.7ms
+[7/756] 2022-04-10T04:40:00  total_mb=2121  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1261.2ms
+[8/756] 2022-04-10T05:20:00  total_mb=2097  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1255.1ms
+[9/756] 2022-04-10T06:00:00  total_mb=2100  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1416.0ms
+[10/756] 2022-04-10T06:40:00  total_mb=2098  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1255.2ms
+[11/756] 2022-04-10T07:20:00  total_mb=2095  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1275.1ms
+[12/756] 2022-04-10T08:00:00  total_mb=2082  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1350.5ms
+[13/756] 2022-04-10T08:40:00  total_mb=2080  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1481.8ms
+[14/756] 2022-04-10T09:20:00  total_mb=2080  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1248.2ms
+[15/756] 2022-04-10T10:00:00  total_mb=2080  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1246.6ms
+[16/756] 2022-04-10T10:40:00  total_mb=2080  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1458.1ms
+[17/756] 2022-04-10T11:20:00  total_mb=2081  pods=1
+  → pod=target-app-757955768f-fgh4p status=200  latency=1257.1ms
+[18/756] 2022-04-10T12:00:00  total_mb=2079  pods=2
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=681.5ms
+  → pod=target-app-757955768f-fgh4p status=200  latency=1012.4ms
+[19/756] 2022-04-10T12:40:00  total_mb=2071  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1314.9ms
+[20/756] 2022-04-10T13:20:00  total_mb=2062  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1370.3ms
+[21/756] 2022-04-10T14:00:00  total_mb=2063  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1265.3ms
+[22/756] 2022-04-10T14:40:00  total_mb=2088  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1239.2ms
+[23/756] 2022-04-10T15:20:00  total_mb=2081  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1381.0ms
+[24/756] 2022-04-10T16:00:00  total_mb=2075  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1241.1ms
+[25/756] 2022-04-10T16:40:00  total_mb=2064  pods=1
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1655.8ms
+[26/756] 2022-04-10T17:20:00  total_mb=2060  pods=2
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1240.8ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=1044.2ms
+[27/756] 2022-04-10T18:00:00  total_mb=2045  pods=2
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1132.0ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=933.8ms
+[28/756] 2022-04-10T18:40:00  total_mb=2061  pods=2
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1211.9ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=1217.8ms
+[29/756] 2022-04-10T19:20:00  total_mb=2032  pods=2
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=1010.3ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=1023.3ms
+[30/756] 2022-04-10T20:00:00  total_mb=2038  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=538.1ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=530.8ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=741.7ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=874.3ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=747.1ms
+[31/756] 2022-04-10T20:40:00  total_mb=2048  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=544.4ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=540.7ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=555.3ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=755.5ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=667.2ms
+[32/756] 2022-04-10T21:20:00  total_mb=2055  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=724.4ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=595.3ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=653.1ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=767.1ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=545.1ms
+[33/756] 2022-04-10T22:00:00  total_mb=2048  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=526.5ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=361.1ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=452.3ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=422.5ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=561.7ms
+[34/756] 2022-04-10T22:40:00  total_mb=2066  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=364.5ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=338.6ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=349.5ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=367.7ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=525.2ms
+[35/756] 2022-04-10T23:20:00  total_mb=2070  pods=5
+  → pod=target-app-57f655b559-98g5z status=200  latency=1249.8ms
+  → pod=target-app-57f655b559-vzrrv status=200  latency=1596.1ms
+  → pod=target-app-57f655b559-wcwrn status=200  latency=827.6ms
+  → pod=target-app-57f655b559-z9dc6 status=200  latency=449.8ms
+  → pod=target-app-57f655b559-zc6x9 status=200  latency=430.9ms
+[36/756] 2022-04-11T00:00:00  total_mb=2074  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=396.5ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=447.4ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=456.4ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=402.0ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=499.8ms
+[37/756] 2022-04-11T00:40:00  total_mb=2079  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=693.1ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=534.7ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=573.3ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=348.8ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=344.4ms
+[38/756] 2022-04-11T01:20:00  total_mb=2083  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=451.9ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=367.5ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=367.0ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=336.2ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=370.0ms
+[39/756] 2022-04-11T02:00:00  total_mb=2094  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=463.6ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=405.4ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=367.5ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=345.6ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=341.0ms
+[40/756] 2022-04-11T02:40:00  total_mb=2116  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=353.6ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=361.1ms
+  Error on attempt 1/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: error: cannot exec into a container in a completed pod; current phase is Succeeded
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-65b6765b8-ms97v: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-ms97v" not found
+, retrying in 3s …
+  → pod=target-app-65b6765b8-76zkz status=200  latency=347.8ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=366.5ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=391.8ms
+[41/756] 2022-04-11T03:20:00  total_mb=2144  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=420.5ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=417.0ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=592.2ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=648.0ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=421.8ms
+[42/756] 2022-04-11T04:00:00  total_mb=2151  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=368.6ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=399.3ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=364.6ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=344.3ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=363.0ms
+[43/756] 2022-04-11T04:40:00  total_mb=2155  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=369.9ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=363.8ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=342.0ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=378.9ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=439.4ms
+[44/756] 2022-04-11T05:20:00  total_mb=2160  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=479.0ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=371.4ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=355.7ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=344.6ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=349.0ms
+[45/756] 2022-04-11T06:00:00  total_mb=2408  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=492.2ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=489.4ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=510.4ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=489.9ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=437.1ms
+[46/756] 2022-04-11T06:40:00  total_mb=3010  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=1908.9ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=2044.2ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=1191.9ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=1629.4ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=2025.1ms
+[47/756] 2022-04-11T07:20:00  total_mb=3394  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=1176.0ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=1460.8ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=2118.0ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=1496.2ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=1837.6ms
+[48/756] 2022-04-11T08:00:00  total_mb=3480  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=1880.6ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=1136.2ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=2105.4ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=1424.6ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=946.1ms
+[49/756] 2022-04-11T08:40:00  total_mb=3503  pods=5
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=2370.0ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=1326.2ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=1565.5ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=2222.9ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=1977.0ms
+[50/756] 2022-04-11T09:20:00  total_mb=3552  pods=6
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=2596.9ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=2037.9ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=1321.8ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=2629.6ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=1661.3ms
+  → pod=target-app-65b6765b8-ms97v status=200  latency=1241.2ms
+[51/756] 2022-04-11T10:00:00  total_mb=3501  pods=6
+  → pod=target-app-65b6765b8-2l9vv status=200  latency=3341.8ms
+  → pod=target-app-65b6765b8-6l5qk status=200  latency=1757.6ms
+  → pod=target-app-65b6765b8-76zkz status=200  latency=2104.1ms
+  → pod=target-app-65b6765b8-9m7pb status=200  latency=1833.8ms
+  → pod=target-app-65b6765b8-dvqfk status=200  latency=982.8ms
+  → pod=target-app-65b6765b8-ms97v status=ERROR  latency=0.0ms
+[52/756] 2022-04-11T10:40:00  total_mb=3391  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=572.6ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=762.7ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=696.9ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=442.6ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=526.4ms
+[53/756] 2022-04-11T11:20:00  total_mb=3350  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=700.6ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=623.9ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=493.7ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=505.9ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=638.8ms
+[54/756] 2022-04-11T12:00:00  total_mb=3349  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=504.4ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=490.6ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=474.2ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=612.6ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=613.8ms
+[55/756] 2022-04-11T12:40:00  total_mb=3471  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=533.6ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=494.2ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=491.2ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=481.1ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=502.7ms
+[56/756] 2022-04-11T13:20:00  total_mb=3539  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=507.4ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=508.7ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=538.1ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=575.8ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=636.8ms
+[57/756] 2022-04-11T14:00:00  total_mb=3605  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=563.8ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=509.0ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=516.3ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=506.8ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=511.8ms
+[58/756] 2022-04-11T14:40:00  total_mb=3474  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=516.3ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=570.7ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=700.7ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=593.8ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=502.1ms
+[59/756] 2022-04-11T15:20:00  total_mb=3330  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=500.6ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=482.3ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=500.5ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=482.3ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=481.1ms
+[60/756] 2022-04-11T16:00:00  total_mb=2761  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=486.6ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=523.4ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=478.2ms
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=423.6ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=474.6ms
+[61/756] 2022-04-11T16:40:00  total_mb=2387  pods=5
+  → pod=target-app-677c8b4b6f-6jqnh status=200  latency=396.8ms
+  → pod=target-app-677c8b4b6f-j97cf status=200  latency=470.7ms
+  → pod=target-app-677c8b4b6f-jrrtf status=200  latency=473.8ms
+  Error on attempt 1/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-677c8b4b6f-jrrtf: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-jrrtf" not found
+, retrying in 3s …
+  → pod=target-app-677c8b4b6f-m9ldh status=200  latency=396.9ms
+  → pod=target-app-677c8b4b6f-vpdx9 status=200  latency=400.6ms
+[62/756] 2022-04-11T17:20:00  total_mb=2307  pods=1
+  → pod=target-app-677c8b4b6f-jrrtf status=ERROR  latency=0.0ms
+[63/756] 2022-04-11T18:00:00  total_mb=2208  pods=2
+  → pod=target-app-757955768f-g58x9 status=200  latency=1114.4ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=955.8ms
+[64/756] 2022-04-11T18:40:00  total_mb=2178  pods=2
+  → pod=target-app-757955768f-g58x9 status=200  latency=1226.3ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=1092.3ms
+[65/756] 2022-04-11T19:20:00  total_mb=2168  pods=2
+  → pod=target-app-757955768f-g58x9 status=200  latency=1242.0ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=1017.1ms
+[66/756] 2022-04-11T20:00:00  total_mb=2137  pods=4
+  → pod=target-app-757955768f-g58x9 status=200  latency=976.9ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=833.0ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=988.2ms
+  → pod=target-app-757955768f-q2thj status=200  latency=714.1ms
+[67/756] 2022-04-11T20:40:00  total_mb=2132  pods=4
+  → pod=target-app-757955768f-g58x9 status=200  latency=773.2ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=601.1ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=648.4ms
+  → pod=target-app-757955768f-q2thj status=200  latency=738.5ms
+[68/756] 2022-04-11T21:20:00  total_mb=2144  pods=4
+  → pod=target-app-757955768f-g58x9 status=200  latency=861.1ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=607.9ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=622.7ms
+  → pod=target-app-757955768f-q2thj status=200  latency=642.9ms
+[69/756] 2022-04-11T22:00:00  total_mb=2160  pods=4
+  → pod=target-app-757955768f-g58x9 status=200  latency=433.9ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=423.9ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=471.4ms
+  → pod=target-app-757955768f-q2thj status=200  latency=585.2ms
+[70/756] 2022-04-11T22:40:00  total_mb=2167  pods=4
+  → pod=target-app-757955768f-g58x9 status=200  latency=1340.9ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=885.9ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=740.9ms
+  → pod=target-app-757955768f-q2thj status=200  latency=524.7ms
+[71/756] 2022-04-11T23:20:00  total_mb=2158  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=540.7ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=681.3ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=686.8ms
+[72/756] 2022-04-12T00:00:00  total_mb=2161  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=516.0ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=521.7ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=522.2ms
+[73/756] 2022-04-12T00:40:00  total_mb=2158  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=528.0ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=536.4ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=528.4ms
+[74/756] 2022-04-12T01:20:00  total_mb=2176  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=575.3ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=630.1ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=677.4ms
+[75/756] 2022-04-12T02:00:00  total_mb=2182  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=549.8ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=573.5ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=529.4ms
+[76/756] 2022-04-12T02:40:00  total_mb=2198  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=534.2ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=546.0ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=716.9ms
+[77/756] 2022-04-12T03:20:00  total_mb=2213  pods=3
+  → pod=target-app-757955768f-g58x9 status=200  latency=769.9ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=923.1ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=908.1ms
+[78/756] 2022-04-12T04:00:00  total_mb=2200  pods=4
+  → pod=target-app-57f655b559-swhf5 status=200  latency=397.9ms
+  → pod=target-app-757955768f-g58x9 status=200  latency=497.3ms
+  → pod=target-app-757955768f-h24g6 status=200  latency=456.2ms
+  → pod=target-app-757955768f-mhmmw status=200  latency=488.9ms
+[79/756] 2022-04-12T04:40:00  total_mb=2222  pods=3
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=566.2ms
+  → pod=target-app-57f655b559-swhf5 status=200  latency=604.0ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=562.8ms
+[80/756] 2022-04-12T05:20:00  total_mb=2243  pods=3
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=552.5ms
+  → pod=target-app-57f655b559-swhf5 status=200  latency=536.2ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=512.8ms
+[81/756] 2022-04-12T06:00:00  total_mb=2467  pods=3
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1244.5ms
+  → pod=target-app-57f655b559-swhf5 status=200  latency=1902.1ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1491.7ms
+[82/756] 2022-04-12T06:40:00  total_mb=2968  pods=3
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1591.6ms
+  → pod=target-app-57f655b559-swhf5 status=200  latency=1437.2ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=2078.8ms
+[83/756] 2022-04-12T07:20:00  total_mb=3357  pods=4
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1277.2ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=1012.0ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=1162.7ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1522.9ms
+[84/756] 2022-04-12T08:00:00  total_mb=3557  pods=4
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=950.3ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=1145.2ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=1365.1ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1676.7ms
+[85/756] 2022-04-12T08:40:00  total_mb=3630  pods=4
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1024.7ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=1142.2ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=1187.8ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1548.5ms
+[86/756] 2022-04-12T09:20:00  total_mb=3744  pods=4
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1649.8ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=1346.8ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=1213.9ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1320.3ms
+[87/756] 2022-04-12T10:00:00  total_mb=3678  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1447.2ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=1116.8ms
+  → pod=target-app-57f655b559-mfxct status=200  latency=1103.8ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=1103.2ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=1258.7ms
+[88/756] 2022-04-12T10:40:00  total_mb=3596  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=1143.6ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=795.1ms
+  → pod=target-app-57f655b559-mfxct status=200  latency=749.8ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=775.9ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=777.4ms
+[89/756] 2022-04-12T11:20:00  total_mb=3560  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=939.5ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=611.0ms
+  → pod=target-app-57f655b559-mfxct status=200  latency=507.4ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=492.6ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=499.7ms
+[90/756] 2022-04-12T12:00:00  total_mb=3636  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=539.1ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=501.3ms
+  → pod=target-app-57f655b559-mfxct status=200  latency=525.9ms
+  Error on attempt 1/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-g92zv: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-g92zv" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-mfxct: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-mfxct" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-tvf8d: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-tvf8d" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-57f655b559-x9sqx: kubectl exec failed: Error from server (NotFound): pods "target-app-57f655b559-x9sqx" not found
+, retrying in 3s …
+  → pod=target-app-57f655b559-tvf8d status=200  latency=627.0ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=573.3ms
+[91/756] 2022-04-12T12:40:00  total_mb=3739  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=746.9ms
+  → pod=target-app-57f655b559-g92zv status=200  latency=690.1ms
+  → pod=target-app-57f655b559-mfxct status=200  latency=544.2ms
+  → pod=target-app-57f655b559-tvf8d status=200  latency=513.8ms
+  → pod=target-app-57f655b559-x9sqx status=200  latency=518.9ms
+[92/756] 2022-04-12T13:20:00  total_mb=3767  pods=5
+  → pod=target-app-57f655b559-7vcj6 status=200  latency=563.4ms
+  → pod=target-app-57f655b559-g92zv status=ERROR  latency=0.0ms
+  → pod=target-app-57f655b559-mfxct status=ERROR  latency=0.0ms
+  → pod=target-app-57f655b559-tvf8d status=ERROR  latency=0.0ms
+  → pod=target-app-57f655b559-x9sqx status=ERROR  latency=0.0ms
+[93/756] 2022-04-12T14:00:00  total_mb=3776  pods=2
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=1193.3ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1634.9ms
+[94/756] 2022-04-12T14:40:00  total_mb=3707  pods=2
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=2271.5ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1657.0ms
+[95/756] 2022-04-12T15:20:00  total_mb=3582  pods=2
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=2334.7ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1980.9ms
+[96/756] 2022-04-12T16:00:00  total_mb=3033  pods=3
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=1039.3ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=1390.5ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1713.5ms
+[97/756] 2022-04-12T16:40:00  total_mb=2618  pods=3
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=854.4ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=1238.8ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1601.8ms
+[98/756] 2022-04-12T17:20:00  total_mb=2530  pods=3
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=1213.7ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=1121.8ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1429.1ms
+[99/756] 2022-04-12T18:00:00  total_mb=2387  pods=4
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=1527.9ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=926.0ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=791.0ms
+  → pod=target-app-7cbb4bb8fd-r2gbq status=200  latency=799.8ms
+[100/756] 2022-04-12T18:40:00  total_mb=2289  pods=4
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=1202.0ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=966.0ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=1057.9ms
+  → pod=target-app-7cbb4bb8fd-r2gbq status=200  latency=735.6ms
+[101/756] 2022-04-12T19:20:00  total_mb=2267  pods=4
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=519.9ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=509.5ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=667.9ms
+  → pod=target-app-7cbb4bb8fd-r2gbq status=200  latency=601.9ms
+[102/756] 2022-04-12T20:00:00  total_mb=2240  pods=4
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=472.2ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=446.7ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=433.9ms
+  → pod=target-app-7cbb4bb8fd-r2gbq status=200  latency=414.5ms
+[103/756] 2022-04-12T20:40:00  total_mb=2239  pods=3
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=529.2ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=530.1ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=607.0ms
+[104/756] 2022-04-12T21:20:00  total_mb=2231  pods=5
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=562.1ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=396.4ms
+  → pod=target-app-7cbb4bb8fd-9v445 status=200  latency=407.1ms
+  → pod=target-app-7cbb4bb8fd-jkdl9 status=200  latency=434.2ms
+  → pod=target-app-7cbb4bb8fd-q98jd status=200  latency=387.9ms
+[105/756] 2022-04-12T22:00:00  total_mb=2247  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=508.6ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=504.0ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=475.5ms
+[106/756] 2022-04-12T22:40:00  total_mb=2243  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=551.1ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=591.1ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=612.1ms
+[107/756] 2022-04-12T23:20:00  total_mb=2235  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=597.3ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=844.2ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=895.6ms
+[108/756] 2022-04-13T00:00:00  total_mb=2235  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=559.2ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=583.9ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=596.8ms
+[109/756] 2022-04-13T00:40:00  total_mb=2248  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=625.1ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=540.5ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=537.8ms
+[110/756] 2022-04-13T01:20:00  total_mb=2267  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=547.4ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=534.8ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=524.2ms
+[111/756] 2022-04-13T02:00:00  total_mb=2303  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=549.0ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=560.7ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=654.0ms
+[112/756] 2022-04-13T02:40:00  total_mb=2333  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=656.5ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=558.9ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=537.9ms
+[113/756] 2022-04-13T03:20:00  total_mb=2340  pods=3
+  → pod=target-app-65b6765b8-cs8l9 status=200  latency=598.2ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=585.2ms
+  → pod=target-app-65b6765b8-zd5pj status=200  latency=549.1ms
+[114/756] 2022-04-13T04:00:00  total_mb=2343  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=716.8ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=880.8ms
+[115/756] 2022-04-13T04:40:00  total_mb=2344  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=793.9ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=761.8ms
+[116/756] 2022-04-13T05:20:00  total_mb=2352  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=793.0ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=780.7ms
+[117/756] 2022-04-13T06:00:00  total_mb=2553  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=1125.7ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=1528.1ms
+[118/756] 2022-04-13T06:40:00  total_mb=3077  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=976.7ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=963.4ms
+[119/756] 2022-04-13T07:20:00  total_mb=3443  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=1073.8ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=1195.7ms
+[120/756] 2022-04-13T08:00:00  total_mb=3613  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=1091.3ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=1085.1ms
+[121/756] 2022-04-13T08:40:00  total_mb=3617  pods=2
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=1115.3ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=1245.3ms
+[122/756] 2022-04-13T09:20:00  total_mb=3498  pods=4
+  → pod=target-app-57f655b559-7x2l5 status=200  latency=591.3ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=573.4ms
+  → pod=target-app-65b6765b8-5gd75 status=200  latency=664.5ms
+  → pod=target-app-65b6765b8-n8brw status=200  latency=705.4ms
+[123/756] 2022-04-13T10:00:00  total_mb=3653  pods=2
+  Error on attempt 1/10 for pod target-app-57f655b559-fkr24: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7cbb4bb8fd-t7h2r: kubectl exec failed: Error from server (NotFound): pods "target-app-7cbb4bb8fd-t7h2r" not found
+, retrying in 3s …
+  → pod=target-app-57f655b559-7x2l5 status=200  latency=1188.8ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=1793.4ms
+[124/756] 2022-04-13T10:40:00  total_mb=3552  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=946.4ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=1088.6ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=801.7ms
+[125/756] 2022-04-13T11:20:00  total_mb=3496  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=921.3ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=767.6ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=825.6ms
+[126/756] 2022-04-13T12:00:00  total_mb=3505  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=1061.2ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=822.5ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=768.2ms
+[127/756] 2022-04-13T12:40:00  total_mb=3556  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=856.3ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=842.2ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=1015.6ms
+[128/756] 2022-04-13T13:20:00  total_mb=3626  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=816.6ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=792.5ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=754.7ms
+[129/756] 2022-04-13T14:00:00  total_mb=3656  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=836.7ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=870.1ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=919.7ms
+[130/756] 2022-04-13T14:40:00  total_mb=3674  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=809.4ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=812.2ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=808.0ms
+[131/756] 2022-04-13T15:20:00  total_mb=3540  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=778.5ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=842.3ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=813.6ms
+[132/756] 2022-04-13T16:00:00  total_mb=3055  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=692.9ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=693.6ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=672.5ms
+[133/756] 2022-04-13T16:40:00  total_mb=2613  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=623.5ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=618.6ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=681.3ms
+[134/756] 2022-04-13T17:20:00  total_mb=2491  pods=3
+  → pod=target-app-57f655b559-fkr24 status=200  latency=1449.9ms
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=1180.4ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=602.9ms
+[135/756] 2022-04-13T18:00:00  total_mb=2372  pods=2
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=787.0ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=842.0ms
+[136/756] 2022-04-13T18:40:00  total_mb=2241  pods=2
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=900.1ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=725.9ms
+[137/756] 2022-04-13T19:20:00  total_mb=2217  pods=2
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=745.7ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=754.4ms
+[138/756] 2022-04-13T20:00:00  total_mb=2204  pods=2
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=907.3ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=851.3ms
+[139/756] 2022-04-13T20:40:00  total_mb=2195  pods=2
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=814.5ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=728.9ms
+[140/756] 2022-04-13T21:20:00  total_mb=2220  pods=4
+  → pod=target-app-57f655b559-kqdn6 status=200  latency=474.9ms
+  → pod=target-app-57f655b559-lb79w status=200  latency=474.5ms
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=391.7ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=407.6ms
+[141/756] 2022-04-13T22:00:00  total_mb=2239  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=731.9ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=845.6ms
+[142/756] 2022-04-13T22:40:00  total_mb=2248  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=855.6ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=752.0ms
+[143/756] 2022-04-13T23:20:00  total_mb=2252  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=915.8ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1060.5ms
+[144/756] 2022-04-14T00:00:00  total_mb=2284  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=895.8ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=837.4ms
+[145/756] 2022-04-14T00:40:00  total_mb=2294  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=758.5ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=748.9ms
+[146/756] 2022-04-14T01:20:00  total_mb=2275  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=926.9ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1051.9ms
+[147/756] 2022-04-14T02:00:00  total_mb=2287  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=916.9ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=842.2ms
+[148/756] 2022-04-14T02:40:00  total_mb=2289  pods=2
+  → pod=target-app-7cbb4bb8fd-j2hhq status=200  latency=896.3ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=950.5ms
+[149/756] 2022-04-14T03:20:00  total_mb=2305  pods=1
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1449.3ms
+[150/756] 2022-04-14T04:00:00  total_mb=2306  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1012.1ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=661.9ms
+[151/756] 2022-04-14T04:40:00  total_mb=2313  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=766.3ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=742.2ms
+[152/756] 2022-04-14T05:20:00  total_mb=2315  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=848.6ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=1007.6ms
+[153/756] 2022-04-14T06:00:00  total_mb=2467  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=897.6ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=912.6ms
+[154/756] 2022-04-14T06:40:00  total_mb=3080  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=950.7ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=913.0ms
+[155/756] 2022-04-14T07:20:00  total_mb=3450  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1124.1ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=1164.9ms
+[156/756] 2022-04-14T08:00:00  total_mb=3570  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1122.9ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=1081.3ms
+[157/756] 2022-04-14T08:40:00  total_mb=3597  pods=2
+  → pod=target-app-7cbb4bb8fd-t7h2r status=200  latency=1368.4ms
+  → pod=target-app-7cbb4bb8fd-trz9x status=200  latency=1466.8ms
+[158/756] 2022-04-14T09:20:00  total_mb=3625  pods=3
+  → pod=target-app-57f655b559-kfgst status=200  latency=773.6ms
+  → pod=target-app-57f655b559-ngpc7 status=200  latency=905.5ms
+  → pod=target-app-7cbb4bb8fd-t7h2r status=ERROR  latency=0.0ms
+[159/756] 2022-04-14T10:00:00  total_mb=3577  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1180.2ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1107.4ms
+[160/756] 2022-04-14T10:40:00  total_mb=3512  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1291.8ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1249.2ms
+[161/756] 2022-04-14T11:20:00  total_mb=3441  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1137.8ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1106.6ms
+[162/756] 2022-04-14T12:00:00  total_mb=3506  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1236.0ms
+  Error on attempt 1/10 for pod target-app-757955768f-2hsps: kubectl exec failed: error: cannot exec into a container in a completed pod; current phase is Succeeded
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-757955768f-2hsps: kubectl exec failed: Error from server (NotFound): pods "target-app-757955768f-2hsps" not found
+, retrying in 3s …
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1267.7ms
+[163/756] 2022-04-14T12:40:00  total_mb=3620  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1443.8ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=2069.4ms
+[164/756] 2022-04-14T13:20:00  total_mb=3699  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1225.6ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1460.8ms
+[165/756] 2022-04-14T14:00:00  total_mb=3737  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1196.7ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1207.9ms
+[166/756] 2022-04-14T14:40:00  total_mb=3685  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1160.4ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1216.8ms
+[167/756] 2022-04-14T15:20:00  total_mb=3515  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1745.3ms
+  → pod=target-app-57f655b559-qrvdl status=200  latency=1175.9ms
+[168/756] 2022-04-14T16:00:00  total_mb=3048  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=2174.5ms
+[169/756] 2022-04-14T16:40:00  total_mb=2674  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=1636.6ms
+[170/756] 2022-04-14T17:20:00  total_mb=2494  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=1492.2ms
+[171/756] 2022-04-14T18:00:00  total_mb=2376  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=1522.7ms
+[172/756] 2022-04-14T18:40:00  total_mb=2315  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=1381.2ms
+[173/756] 2022-04-14T19:20:00  total_mb=2296  pods=1
+  → pod=target-app-57f655b559-kfgst status=200  latency=1592.8ms
+[174/756] 2022-04-14T20:00:00  total_mb=2280  pods=2
+  → pod=target-app-57f655b559-kfgst status=200  latency=1162.8ms
+  → pod=target-app-757955768f-2hsps status=200  latency=970.2ms
+[175/756] 2022-04-14T20:40:00  total_mb=2276  pods=1
+  → pod=target-app-757955768f-2hsps status=200  latency=1786.6ms
+[176/756] 2022-04-14T21:20:00  total_mb=2257  pods=1
+  → pod=target-app-757955768f-2hsps status=200  latency=1796.0ms
+[177/756] 2022-04-14T22:00:00  total_mb=2249  pods=1
+  → pod=target-app-757955768f-2hsps status=200  latency=2025.7ms
+[178/756] 2022-04-14T22:40:00  total_mb=2321  pods=1
+  → pod=target-app-757955768f-2hsps status=200  latency=1882.4ms
+[179/756] 2022-04-14T23:20:00  total_mb=2279  pods=1
+  → pod=target-app-757955768f-2hsps status=200  latency=2011.9ms
+[180/756] 2022-04-15T00:00:00  total_mb=2276  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=1073.7ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=717.7ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=742.5ms
+[181/756] 2022-04-15T00:40:00  total_mb=2286  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=875.1ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=998.9ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=1042.9ms
+[182/756] 2022-04-15T01:20:00  total_mb=2299  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=988.6ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=761.8ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=738.9ms
+[183/756] 2022-04-15T02:00:00  total_mb=2295  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=605.1ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=930.7ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=688.9ms
+[184/756] 2022-04-15T02:40:00  total_mb=2298  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=821.0ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=703.5ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=747.3ms
+[185/756] 2022-04-15T03:20:00  total_mb=2304  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=544.3ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=601.9ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=625.1ms
+[186/756] 2022-04-15T04:00:00  total_mb=2312  pods=3
+  → pod=target-app-757955768f-2hsps status=200  latency=651.9ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=550.4ms
+  → pod=target-app-757955768f-rhk9g status=200  latency=522.4ms
+[187/756] 2022-04-15T04:40:00  total_mb=2342  pods=2
+  → pod=target-app-757955768f-2hsps status=200  latency=729.1ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=725.4ms
+[188/756] 2022-04-15T05:20:00  total_mb=2369  pods=2
+  → pod=target-app-757955768f-2hsps status=200  latency=870.5ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=876.4ms
+[189/756] 2022-04-15T06:00:00  total_mb=2509  pods=2
+  → pod=target-app-757955768f-2hsps status=200  latency=799.7ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=785.4ms
+[190/756] 2022-04-15T06:40:00  total_mb=3047  pods=2
+  → pod=target-app-757955768f-2hsps status=200  latency=974.4ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=947.3ms
+[191/756] 2022-04-15T07:20:00  total_mb=3355  pods=2
+  → pod=target-app-757955768f-2hsps status=200  latency=1258.0ms
+  → pod=target-app-757955768f-9vvxp status=200  latency=1125.8ms
+[192/756] 2022-04-15T08:00:00  total_mb=3464  pods=3
+  → pod=target-app-57f655b559-lkwrn status=200  latency=725.1ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=768.0ms
+  → pod=target-app-757955768f-2hsps status=ERROR  latency=0.0ms
+[193/756] 2022-04-15T08:40:00  total_mb=3532  pods=2
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1304.0ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1230.4ms
+[194/756] 2022-04-15T09:20:00  total_mb=3597  pods=2
+  → pod=target-app-57f655b559-lkwrn status=200  latency=2187.2ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1721.7ms
+[195/756] 2022-04-15T10:00:00  total_mb=3636  pods=2
+  → pod=target-app-57f655b559-lkwrn status=200  latency=2215.5ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=2194.4ms
+[196/756] 2022-04-15T10:40:00  total_mb=3504  pods=3
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1372.7ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1685.6ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1430.7ms
+[197/756] 2022-04-15T11:20:00  total_mb=3388  pods=3
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1524.0ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1710.8ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1248.9ms
+[198/756] 2022-04-15T12:00:00  total_mb=3388  pods=3
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1297.3ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1893.0ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1282.0ms
+[199/756] 2022-04-15T12:40:00  total_mb=3572  pods=3
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1733.2ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1488.3ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=1403.8ms
+[200/756] 2022-04-15T13:20:00  total_mb=3577  pods=5
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1346.1ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=1205.5ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=1611.8ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=905.2ms
+  → pod=target-app-57f655b559-zxz9j status=200  latency=900.0ms
+[201/756] 2022-04-15T14:00:00  total_mb=3571  pods=4
+  → pod=target-app-57f655b559-7kv84 status=200  latency=1221.0ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=1017.6ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=865.2ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=570.5ms
+[202/756] 2022-04-15T14:40:00  total_mb=3530  pods=4
+  → pod=target-app-57f655b559-7kv84 status=200  latency=629.6ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=691.4ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=743.5ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=627.9ms
+[203/756] 2022-04-15T15:20:00  total_mb=3384  pods=4
+  → pod=target-app-57f655b559-7kv84 status=200  latency=743.2ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=594.9ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=679.0ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=666.5ms
+[204/756] 2022-04-15T16:00:00  total_mb=2952  pods=4
+  → pod=target-app-57f655b559-7kv84 status=200  latency=649.5ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=516.4ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=552.5ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=621.3ms
+[205/756] 2022-04-15T16:40:00  total_mb=2595  pods=4
+  → pod=target-app-57f655b559-7kv84 status=200  latency=491.6ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=472.3ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=481.8ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=473.3ms
+[206/756] 2022-04-15T17:20:00  total_mb=2467  pods=8
+  → pod=target-app-57f655b559-7kv84 status=200  latency=318.6ms
+  → pod=target-app-57f655b559-bhzvr status=200  latency=335.1ms
+  → pod=target-app-57f655b559-lkwrn status=200  latency=407.3ms
+  → pod=target-app-57f655b559-vwm8n status=200  latency=401.2ms
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=351.3ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=329.1ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=732.3ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=752.7ms
+[207/756] 2022-04-15T18:00:00  total_mb=2369  pods=4
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=647.3ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=846.3ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=465.5ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=634.7ms
+[208/756] 2022-04-15T18:40:00  total_mb=2292  pods=4
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=671.8ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=507.5ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=692.7ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=515.7ms
+[209/756] 2022-04-15T19:20:00  total_mb=2282  pods=4
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=439.2ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=428.0ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=413.7ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=495.6ms
+[210/756] 2022-04-15T20:00:00  total_mb=2273  pods=4
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=489.5ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=445.7ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=415.8ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=417.6ms
+[211/756] 2022-04-15T20:40:00  total_mb=2291  pods=4
+  → pod=target-app-65b6765b8-67ng6 status=200  latency=444.1ms
+  → pod=target-app-65b6765b8-898h5 status=200  latency=433.4ms
+  → pod=target-app-65b6765b8-qx7pq status=200  latency=440.2ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=411.1ms
+[212/756] 2022-04-15T21:20:00  total_mb=2273  pods=2
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=698.0ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=771.3ms
+[213/756] 2022-04-15T22:00:00  total_mb=2345  pods=2
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=874.3ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=894.4ms
+[214/756] 2022-04-15T22:40:00  total_mb=2362  pods=2
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1757.7ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1427.7ms
+[215/756] 2022-04-15T23:20:00  total_mb=2345  pods=2
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1657.1ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1406.6ms
+[216/756] 2022-04-16T00:00:00  total_mb=2321  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1054.6ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=1061.3ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=999.9ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1250.6ms
+[217/756] 2022-04-16T00:40:00  total_mb=2323  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=643.4ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=894.6ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=1006.0ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1321.0ms
+[218/756] 2022-04-16T01:20:00  total_mb=2322  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1072.0ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=799.9ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=774.5ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1244.9ms
+[219/756] 2022-04-16T02:00:00  total_mb=2352  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1143.9ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=998.4ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=960.7ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1317.9ms
+[220/756] 2022-04-16T02:40:00  total_mb=2376  pods=5
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1139.1ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=1028.7ms
+  → pod=target-app-65b6765b8-rq8br status=200  latency=738.1ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=806.2ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=1338.3ms
+[221/756] 2022-04-16T03:20:00  total_mb=2376  pods=5
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1001.9ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=626.3ms
+  → pod=target-app-65b6765b8-rq8br status=200  latency=408.6ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=403.1ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=439.0ms
+[222/756] 2022-04-16T04:00:00  total_mb=2388  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=447.2ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=497.5ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=503.0ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=522.9ms
+[223/756] 2022-04-16T04:40:00  total_mb=2378  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1085.0ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=779.4ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=446.3ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=452.4ms
+[224/756] 2022-04-16T05:20:00  total_mb=2391  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=480.9ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=504.0ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=521.2ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=486.5ms
+[225/756] 2022-04-16T06:00:00  total_mb=2397  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=539.8ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=570.4ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=494.3ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=568.9ms
+[226/756] 2022-04-16T06:40:00  total_mb=2446  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=473.3ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=550.8ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=727.7ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=669.5ms
+[227/756] 2022-04-16T07:20:00  total_mb=2503  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=1369.9ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=494.0ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=465.6ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=470.5ms
+[228/756] 2022-04-16T08:00:00  total_mb=2505  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=486.3ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=475.5ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=540.8ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=538.0ms
+[229/756] 2022-04-16T08:40:00  total_mb=2523  pods=4
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=547.9ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=895.9ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=517.1ms
+  Error on attempt 1/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-677c8b4b6f-7bmxl: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-7bmxl" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: error: unable to upgrade connection: container not found ("target-app")
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-qbhws" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-qbhws" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-677c8b4b6f-qbhws: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-qbhws" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-677c8b4b6f-rzmwk: kubectl exec failed: Error from server (NotFound): pods "target-app-677c8b4b6f-rzmwk" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-7cbb4bb8fd-bttqj: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=453.8ms
+[230/756] 2022-04-16T09:20:00  total_mb=2509  pods=6
+  → pod=target-app-65b6765b8-4rpm6 status=200  latency=377.7ms
+  → pod=target-app-65b6765b8-ffwbn status=200  latency=441.6ms
+  → pod=target-app-65b6765b8-tpc2k status=200  latency=459.0ms
+  → pod=target-app-65b6765b8-w8s2h status=200  latency=597.3ms
+  → pod=target-app-677c8b4b6f-6s6s8 status=200  latency=609.8ms
+  → pod=target-app-677c8b4b6f-7bmxl status=200  latency=385.6ms
+[231/756] 2022-04-16T10:00:00  total_mb=2479  pods=4
+  → pod=target-app-677c8b4b6f-4xslk status=200  latency=415.7ms
+  → pod=target-app-677c8b4b6f-6s6s8 status=200  latency=450.8ms
+  → pod=target-app-677c8b4b6f-7bmxl status=200  latency=428.6ms
+  → pod=target-app-677c8b4b6f-qbhws status=200  latency=411.5ms
+[232/756] 2022-04-16T10:40:00  total_mb=2414  pods=4
+  → pod=target-app-677c8b4b6f-4xslk status=200  latency=494.7ms
+  → pod=target-app-677c8b4b6f-6s6s8 status=200  latency=549.2ms
+  → pod=target-app-677c8b4b6f-7bmxl status=200  latency=507.9ms
+  → pod=target-app-677c8b4b6f-qbhws status=200  latency=761.1ms
+[233/756] 2022-04-16T11:20:00  total_mb=2415  pods=4
+  → pod=target-app-677c8b4b6f-4xslk status=200  latency=721.8ms
+  → pod=target-app-677c8b4b6f-6s6s8 status=200  latency=852.6ms
+  → pod=target-app-677c8b4b6f-7bmxl status=ERROR  latency=0.0ms
+  → pod=target-app-677c8b4b6f-qbhws status=200  latency=849.6ms
+[234/756] 2022-04-16T12:00:00  total_mb=2394  pods=2
+  → pod=target-app-677c8b4b6f-qbhws status=ERROR  latency=0.0ms
+  → pod=target-app-677c8b4b6f-rzmwk status=ERROR  latency=0.0ms
+[235/756] 2022-04-16T12:40:00  total_mb=2408  pods=2
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=1702.5ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=1454.8ms
+[236/756] 2022-04-16T13:20:00  total_mb=2402  pods=5
+  → pod=target-app-7cbb4bb8fd-bttqj status=200  latency=390.2ms
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=560.1ms
+  → pod=target-app-7cbb4bb8fd-lbssx status=200  latency=753.6ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=817.5ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=618.1ms
+[237/756] 2022-04-16T14:00:00  total_mb=2416  pods=5
+  → pod=target-app-7cbb4bb8fd-bttqj status=200  latency=1085.2ms
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=736.2ms
+  → pod=target-app-7cbb4bb8fd-lbssx status=200  latency=537.3ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=385.6ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=366.7ms
+[238/756] 2022-04-16T14:40:00  total_mb=2407  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=569.1ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=623.6ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=626.5ms
+[239/756] 2022-04-16T15:20:00  total_mb=2361  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=563.9ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=560.1ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=540.2ms
+[240/756] 2022-04-16T16:00:00  total_mb=2336  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=563.9ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=556.9ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=540.8ms
+[241/756] 2022-04-16T16:40:00  total_mb=2330  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=583.5ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=652.8ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=634.8ms
+[242/756] 2022-04-16T17:20:00  total_mb=2324  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=687.2ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=583.0ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=533.8ms
+[243/756] 2022-04-16T18:00:00  total_mb=2316  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=613.3ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=527.6ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=534.0ms
+[244/756] 2022-04-16T18:40:00  total_mb=2317  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=675.0ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=644.8ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=533.0ms
+[245/756] 2022-04-16T19:20:00  total_mb=2316  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=633.3ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=540.1ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=527.0ms
+[246/756] 2022-04-16T20:00:00  total_mb=2312  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=536.3ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=556.8ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=668.4ms
+[247/756] 2022-04-16T20:40:00  total_mb=2325  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=658.4ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=618.4ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=628.4ms
+[248/756] 2022-04-16T21:20:00  total_mb=2328  pods=3
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=567.5ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=534.5ms
+  → pod=target-app-7cbb4bb8fd-qg94j status=200  latency=534.4ms
+[249/756] 2022-04-16T22:00:00  total_mb=2352  pods=2
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=748.3ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=858.3ms
+[250/756] 2022-04-16T22:40:00  total_mb=2359  pods=4
+  → pod=target-app-65b6765b8-gr467 status=200  latency=399.9ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=451.5ms
+  → pod=target-app-7cbb4bb8fd-jn894 status=200  latency=603.9ms
+  → pod=target-app-7cbb4bb8fd-pll77 status=200  latency=583.7ms
+[251/756] 2022-04-16T23:20:00  total_mb=2348  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=798.7ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=696.3ms
+[252/756] 2022-04-17T00:00:00  total_mb=2357  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=877.0ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=776.8ms
+[253/756] 2022-04-17T00:40:00  total_mb=2354  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=769.2ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=744.6ms
+[254/756] 2022-04-17T01:20:00  total_mb=2352  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=779.2ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=735.6ms
+[255/756] 2022-04-17T02:00:00  total_mb=2341  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=879.5ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=961.0ms
+[256/756] 2022-04-17T02:40:00  total_mb=2344  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=1315.7ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1210.4ms
+[257/756] 2022-04-17T03:20:00  total_mb=2354  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=841.4ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1457.2ms
+[258/756] 2022-04-17T04:00:00  total_mb=2392  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=779.3ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=771.4ms
+[259/756] 2022-04-17T04:40:00  total_mb=2408  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=803.6ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=749.3ms
+[260/756] 2022-04-17T05:20:00  total_mb=2394  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=896.6ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=899.4ms
+[261/756] 2022-04-17T06:00:00  total_mb=2404  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=805.5ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=748.7ms
+[262/756] 2022-04-17T06:40:00  total_mb=2392  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=840.5ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=748.5ms
+[263/756] 2022-04-17T07:20:00  total_mb=2386  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=1005.8ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=863.1ms
+[264/756] 2022-04-17T08:00:00  total_mb=2380  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=804.2ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=912.0ms
+[265/756] 2022-04-17T08:40:00  total_mb=2376  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=830.5ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=878.8ms
+[266/756] 2022-04-17T09:20:00  total_mb=2376  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=880.1ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=774.6ms
+[267/756] 2022-04-17T10:00:00  total_mb=2383  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=933.6ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=777.6ms
+[268/756] 2022-04-17T10:40:00  total_mb=2384  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=944.4ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1236.9ms
+[269/756] 2022-04-17T11:20:00  total_mb=2376  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=822.8ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1036.0ms
+[270/756] 2022-04-17T12:00:00  total_mb=2354  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=938.3ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1031.9ms
+[271/756] 2022-04-17T12:40:00  total_mb=2352  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=1018.0ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=749.0ms
+[272/756] 2022-04-17T13:20:00  total_mb=2352  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=785.1ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=749.1ms
+[273/756] 2022-04-17T14:00:00  total_mb=2362  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=771.8ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=807.4ms
+[274/756] 2022-04-17T14:40:00  total_mb=2363  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=896.0ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=757.3ms
+[275/756] 2022-04-17T15:20:00  total_mb=2361  pods=2
+  → pod=target-app-65b6765b8-gr467 status=200  latency=906.2ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=1054.2ms
+[276/756] 2022-04-17T16:00:00  total_mb=2356  pods=4
+  → pod=target-app-65b6765b8-gr467 status=200  latency=495.7ms
+  → pod=target-app-65b6765b8-m7tzr status=200  latency=546.6ms
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=529.9ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=506.7ms
+[277/756] 2022-04-17T16:40:00  total_mb=2355  pods=2
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=715.6ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=795.2ms
+[278/756] 2022-04-17T17:20:00  total_mb=2357  pods=2
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=769.4ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=888.0ms
+[279/756] 2022-04-17T18:00:00  total_mb=2349  pods=2
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=844.2ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=899.6ms
+[280/756] 2022-04-17T18:40:00  total_mb=2348  pods=2
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=761.0ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=747.6ms
+[281/756] 2022-04-17T19:20:00  total_mb=2345  pods=2
+  → pod=target-app-7cbb4bb8fd-mn8lq status=200  latency=765.4ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=742.5ms
+[282/756] 2022-04-17T20:00:00  total_mb=2353  pods=1
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=1497.4ms
+[283/756] 2022-04-17T20:40:00  total_mb=2324  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=678.4ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=872.3ms
+[284/756] 2022-04-17T21:20:00  total_mb=2328  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=1138.3ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=799.1ms
+[285/756] 2022-04-17T22:00:00  total_mb=2358  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=915.2ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=966.6ms
+[286/756] 2022-04-17T22:40:00  total_mb=2351  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=757.0ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=770.8ms
+[287/756] 2022-04-17T23:20:00  total_mb=2336  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=731.3ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=762.4ms
+[288/756] 2022-04-18T00:00:00  total_mb=2360  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=927.2ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=974.9ms
+[289/756] 2022-04-18T00:40:00  total_mb=2360  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=752.6ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=805.8ms
+[290/756] 2022-04-18T01:20:00  total_mb=2368  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=753.4ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=767.8ms
+[291/756] 2022-04-18T02:00:00  total_mb=2382  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=911.7ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=779.3ms
+[292/756] 2022-04-18T02:40:00  total_mb=2397  pods=2
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=948.2ms
+  → pod=target-app-7cbb4bb8fd-rknz2 status=200  latency=1008.2ms
+[293/756] 2022-04-18T03:20:00  total_mb=2407  pods=1
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=1503.4ms
+[294/756] 2022-04-18T04:00:00  total_mb=2416  pods=2
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=1166.2ms
+  → pod=target-app-7cbb4bb8fd-jtf9z status=200  latency=1308.7ms
+[295/756] 2022-04-18T04:40:00  total_mb=2416  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=722.6ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=744.9ms
+[296/756] 2022-04-18T05:20:00  total_mb=2416  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=984.8ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=1386.6ms
+[297/756] 2022-04-18T06:00:00  total_mb=2427  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=914.1ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=986.4ms
+[298/756] 2022-04-18T06:40:00  total_mb=2426  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=1053.8ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=1311.6ms
+[299/756] 2022-04-18T07:20:00  total_mb=2392  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=819.6ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=909.0ms
+[300/756] 2022-04-18T08:00:00  total_mb=2387  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=824.9ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=864.8ms
+[301/756] 2022-04-18T08:40:00  total_mb=2377  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=994.3ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=815.6ms
+[302/756] 2022-04-18T09:20:00  total_mb=2376  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=780.0ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=774.6ms
+[303/756] 2022-04-18T10:00:00  total_mb=2372  pods=2
+  → pod=target-app-7b58bf89f-72j5h status=200  latency=801.6ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=818.8ms
+[304/756] 2022-04-18T10:40:00  total_mb=2390  pods=1
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=2068.3ms
+[305/756] 2022-04-18T11:20:00  total_mb=2388  pods=1
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=1448.4ms
+[306/756] 2022-04-18T12:00:00  total_mb=2385  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=678.8ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=954.0ms
+[307/756] 2022-04-18T12:40:00  total_mb=2388  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=1134.1ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=791.1ms
+[308/756] 2022-04-18T13:20:00  total_mb=2369  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=961.6ms
+  Error on attempt 1/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: error: cannot exec into a container in a completed pod; current phase is Succeeded
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-7b58bf89f-sxgl7: kubectl exec failed: Error from server (NotFound): pods "target-app-7b58bf89f-sxgl7" not found
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-65b6765b8-ld6fz: kubectl exec failed: command terminated with exit code 7
+, retrying in 3s …
+  Error on attempt 1/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-65b6765b8-rcn7b: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-rcn7b" not found
+, retrying in 3s …
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=1088.6ms
+[309/756] 2022-04-18T14:00:00  total_mb=2381  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=856.0ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=846.7ms
+[310/756] 2022-04-18T14:40:00  total_mb=2381  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=940.9ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=802.8ms
+[311/756] 2022-04-18T15:20:00  total_mb=2400  pods=2
+  → pod=target-app-7b58bf89f-7kkcr status=200  latency=765.0ms
+  → pod=target-app-7b58bf89f-sxgl7 status=200  latency=806.6ms
+[312/756] 2022-04-18T16:00:00  total_mb=2373  pods=3
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=607.9ms
+  → pod=target-app-65b6765b8-vqzl4 status=200  latency=800.8ms
+  → pod=target-app-7b58bf89f-sxgl7 status=ERROR  latency=0.0ms
+[313/756] 2022-04-18T16:40:00  total_mb=2363  pods=2
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=1250.4ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=1004.9ms
+[314/756] 2022-04-18T17:20:00  total_mb=2356  pods=2
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=860.7ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=864.4ms
+[315/756] 2022-04-18T18:00:00  total_mb=2361  pods=2
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=887.1ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=876.9ms
+[316/756] 2022-04-18T18:40:00  total_mb=2343  pods=2
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=1346.4ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=1054.6ms
+[317/756] 2022-04-18T19:20:00  total_mb=2343  pods=2
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=878.7ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=1484.0ms
+[318/756] 2022-04-18T20:00:00  total_mb=2352  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=635.0ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=551.6ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=725.9ms
+[319/756] 2022-04-18T20:40:00  total_mb=2343  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=647.5ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=572.5ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=859.7ms
+[320/756] 2022-04-18T21:20:00  total_mb=2337  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=545.3ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=537.2ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=555.2ms
+[321/756] 2022-04-18T22:00:00  total_mb=2362  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=581.1ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=552.6ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=541.4ms
+[322/756] 2022-04-18T22:40:00  total_mb=2396  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=581.9ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=668.5ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=695.2ms
+[323/756] 2022-04-18T23:20:00  total_mb=2437  pods=3
+  → pod=target-app-65b6765b8-ld6fz status=200  latency=565.7ms
+  → pod=target-app-65b6765b8-ngmd9 status=200  latency=591.4ms
+  → pod=target-app-65b6765b8-rcn7b status=200  latency=593.8ms
+[324/756] 2022-04-19T00:00:00  total_mb=2418  pods=1
+  → pod=target-app-65b6765b8-rcn7b status=ERROR  latency=0.0ms
+[325/756] 2022-04-19T00:40:00  total_mb=2387  pods=1
+  → pod=target-app-757955768f-pjm2w status=200  latency=1417.8ms
+[326/756] 2022-04-19T01:20:00  total_mb=2365  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=791.9ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=1212.5ms
+[327/756] 2022-04-19T02:00:00  total_mb=2384  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=861.5ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=920.6ms
+[328/756] 2022-04-19T02:40:00  total_mb=2394  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=782.4ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=902.1ms
+[329/756] 2022-04-19T03:20:00  total_mb=2413  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=777.1ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=781.7ms
+[330/756] 2022-04-19T04:00:00  total_mb=2470  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=963.6ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=1032.9ms
+[331/756] 2022-04-19T04:40:00  total_mb=2465  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=824.0ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=940.2ms
+[332/756] 2022-04-19T05:20:00  total_mb=2481  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=604.2ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=671.2ms
+  → pod=target-app-757955768f-rq5s9 status=200  latency=836.9ms
+[333/756] 2022-04-19T06:00:00  total_mb=2669  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=780.9ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=730.4ms
+  → pod=target-app-757955768f-rq5s9 status=200  latency=935.4ms
+[334/756] 2022-04-19T06:40:00  total_mb=3202  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=707.2ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=780.8ms
+  → pod=target-app-757955768f-rq5s9 status=200  latency=1029.5ms
+[335/756] 2022-04-19T07:20:00  total_mb=3489  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=925.5ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=902.3ms
+  → pod=target-app-757955768f-rq5s9 status=200  latency=1140.2ms
+[336/756] 2022-04-19T08:00:00  total_mb=3572  pods=2
+  → pod=target-app-757955768f-8svkb status=200  latency=1242.6ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=1602.9ms
+[337/756] 2022-04-19T08:40:00  total_mb=3610  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=951.5ms
+  → pod=target-app-757955768f-nnq8x status=200  latency=718.8ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=841.4ms
+[338/756] 2022-04-19T09:20:00  total_mb=3641  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=899.6ms
+  → pod=target-app-757955768f-nnq8x status=200  latency=869.6ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=924.8ms
+[339/756] 2022-04-19T10:00:00  total_mb=3566  pods=3
+  → pod=target-app-757955768f-8svkb status=200  latency=794.5ms
+  → pod=target-app-757955768f-nnq8x status=200  latency=755.9ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=763.6ms
+[340/756] 2022-04-19T10:40:00  total_mb=3494  pods=4
+  → pod=target-app-57f655b559-2skq5 status=200  latency=591.3ms
+  → pod=target-app-757955768f-8svkb status=200  latency=778.9ms
+  → pod=target-app-757955768f-nnq8x status=200  latency=717.5ms
+  → pod=target-app-757955768f-pjm2w status=200  latency=632.9ms
+[341/756] 2022-04-19T11:20:00  total_mb=3465  pods=3
+  → pod=target-app-57f655b559-2skq5 status=200  latency=777.2ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=675.5ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=714.4ms
+[342/756] 2022-04-19T12:00:00  total_mb=3580  pods=3
+  → pod=target-app-57f655b559-2skq5 status=200  latency=907.2ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=837.5ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=748.5ms
+[343/756] 2022-04-19T12:40:00  total_mb=3716  pods=3
+  → pod=target-app-57f655b559-2skq5 status=200  latency=830.3ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=794.9ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=761.6ms
+[344/756] 2022-04-19T13:20:00  total_mb=3674  pods=3
+  → pod=target-app-57f655b559-2skq5 status=200  latency=961.8ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=990.9ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=926.0ms
+[345/756] 2022-04-19T14:00:00  total_mb=3659  pods=3
+  → pod=target-app-57f655b559-2skq5 status=200  latency=807.1ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=784.2ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=819.7ms
+[346/756] 2022-04-19T14:40:00  total_mb=3587  pods=3
+  Error on attempt 1/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 2/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: command terminated with exit code 137
+, retrying in 3s …
+  Error on attempt 3/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 4/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 5/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 6/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 7/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 8/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 9/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  Error on attempt 10/10 for pod target-app-65b6765b8-mnm65: kubectl exec failed: Error from server (NotFound): pods "target-app-65b6765b8-mnm65" not found
+, retrying in 3s …
+  → pod=target-app-57f655b559-2skq5 status=200  latency=945.2ms
+  → pod=target-app-57f655b559-6tvnh status=200  latency=771.8ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=769.0ms
+[347/756] 2022-04-19T15:20:00  total_mb=3491  pods=1
+  → pod=target-app-57f655b559-rqrjr status=200  latency=2065.4ms
+[348/756] 2022-04-19T16:00:00  total_mb=3033  pods=1
+  → pod=target-app-57f655b559-rqrjr status=200  latency=2009.4ms
+[349/756] 2022-04-19T16:40:00  total_mb=2632  pods=1
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1668.2ms
+[350/756] 2022-04-19T17:20:00  total_mb=2576  pods=1
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1604.0ms
+[351/756] 2022-04-19T18:00:00  total_mb=2479  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=1187.6ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1478.5ms
+[352/756] 2022-04-19T18:40:00  total_mb=2410  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=794.5ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1236.6ms
+[353/756] 2022-04-19T19:20:00  total_mb=2392  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=951.6ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=872.7ms
+[354/756] 2022-04-19T20:00:00  total_mb=2401  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=771.1ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=802.7ms
+[355/756] 2022-04-19T20:40:00  total_mb=2424  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=809.5ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1050.1ms
+[356/756] 2022-04-19T21:20:00  total_mb=2404  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=822.0ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1223.2ms
+[357/756] 2022-04-19T22:00:00  total_mb=2406  pods=2
+  → pod=target-app-57f655b559-8fcnq status=200  latency=1116.1ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1010.7ms
+[358/756] 2022-04-19T22:40:00  total_mb=2422  pods=3
+  → pod=target-app-57f655b559-8fcnq status=200  latency=1386.1ms
+  → pod=target-app-57f655b559-8sgwr status=200  latency=888.1ms
+  → pod=target-app-57f655b559-rqrjr status=200  latency=1100.2ms
+[359/756] 2022-04-19T23:20:00  total_mb=2420  pods=4
+  → pod=target-app-57f655b559-rqrjr status=200  latency=586.5ms
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=470.3ms
+  → pod=target-app-65b6765b8-npbcv status=200  latency=1062.0ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=685.2ms
+[360/756] 2022-04-20T00:00:00  total_mb=2446  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=787.7ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=744.2ms
+[361/756] 2022-04-20T00:40:00  total_mb=2460  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=826.1ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=806.6ms
+[362/756] 2022-04-20T01:20:00  total_mb=2467  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=950.5ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=882.9ms
+[363/756] 2022-04-20T02:00:00  total_mb=2457  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=808.9ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=808.4ms
+[364/756] 2022-04-20T02:40:00  total_mb=2475  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=843.1ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=782.2ms
+[365/756] 2022-04-20T03:20:00  total_mb=2495  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=1384.6ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=1157.0ms
+[366/756] 2022-04-20T04:00:00  total_mb=2496  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=953.5ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=784.2ms
+[367/756] 2022-04-20T04:40:00  total_mb=2504  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=1011.0ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=1079.4ms
+[368/756] 2022-04-20T05:20:00  total_mb=2506  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=932.7ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=931.9ms
+[369/756] 2022-04-20T06:00:00  total_mb=2676  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=865.2ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=1001.8ms
+[370/756] 2022-04-20T06:40:00  total_mb=3191  pods=2
+  → pod=target-app-65b6765b8-mnm65 status=200  latency=970.5ms
+  → pod=target-app-65b6765b8-tgcqh status=200  latency=964.8ms
+[371/756] 2022-04-20T07:20:00  total_mb=3471  pods=1
+  → pod=target-app-65b6765b8-mnm65 status=ERROR  latency=0.0ms
+[372/756] 2022-04-20T08:00:00  total_mb=3556  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1761.9ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1187.8ms
+[373/756] 2022-04-20T08:40:00  total_mb=3611  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1198.6ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1321.3ms
+[374/756] 2022-04-20T09:20:00  total_mb=3636  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1180.8ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1155.6ms
+[375/756] 2022-04-20T10:00:00  total_mb=3587  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1182.1ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1526.7ms
+[376/756] 2022-04-20T10:40:00  total_mb=3483  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1546.0ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1409.0ms
+[377/756] 2022-04-20T11:20:00  total_mb=3451  pods=3
+  → pod=target-app-757955768f-gp7cr status=200  latency=863.6ms
+  → pod=target-app-757955768f-tp95q status=200  latency=1157.4ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1414.1ms
+[378/756] 2022-04-20T12:00:00  total_mb=3545  pods=3
+  → pod=target-app-757955768f-gp7cr status=200  latency=785.0ms
+  → pod=target-app-757955768f-tp95q status=200  latency=1213.5ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1676.3ms
+[379/756] 2022-04-20T12:40:00  total_mb=3624  pods=3
+  → pod=target-app-757955768f-gp7cr status=200  latency=777.1ms
+  → pod=target-app-757955768f-tp95q status=200  latency=784.4ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=778.5ms
+[380/756] 2022-04-20T13:20:00  total_mb=3679  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1229.5ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1100.1ms
+[381/756] 2022-04-20T14:00:00  total_mb=3681  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1174.2ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1164.7ms
+[382/756] 2022-04-20T14:40:00  total_mb=3635  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1291.0ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1251.8ms
+[383/756] 2022-04-20T15:20:00  total_mb=3515  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1254.3ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1069.6ms
+[384/756] 2022-04-20T16:00:00  total_mb=3058  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1083.4ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=1094.8ms
+[385/756] 2022-04-20T16:40:00  total_mb=2656  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=1030.9ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=940.5ms
+[386/756] 2022-04-20T17:20:00  total_mb=2576  pods=2
+  → pod=target-app-757955768f-tp95q status=200  latency=847.9ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=919.1ms
+[387/756] 2022-04-20T18:00:00  total_mb=2525  pods=4
+  → pod=target-app-57f655b559-b5v57 status=200  latency=488.0ms
+  → pod=target-app-57f655b559-tkbzj status=200  latency=459.4ms
+  → pod=target-app-757955768f-tp95q status=200  latency=538.1ms
+  → pod=target-app-757955768f-vrtzb status=200  latency=518.7ms
+[388/756] 2022-04-20T18:40:00  total_mb=2448  pods=2
+  → pod=target-app-57f655b559-b5v57 status=200  latency=777.0ms
+  → pod=target-app-57f655b559-tkbzj status=200  latency=785.8ms

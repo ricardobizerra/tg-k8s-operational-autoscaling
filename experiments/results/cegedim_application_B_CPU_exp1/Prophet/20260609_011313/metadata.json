@@ -1,0 +1,39 @@
+{
+    "dataset": "cegedim_application_B_CPU_exp1",
+    "target_col": "Total_Usage",
+    "model_type": "Prophet",
+    "best_params": {
+        "daily_seasonality": true,
+        "weekly_seasonality": true,
+        "yearly_seasonality": "auto",
+        "interval_width": 0.8062590331698528
+    },
+    "metrics": {
+        "validation": {
+            "MAE": 1.4877854714248961,
+            "RMSE": 2.001677752569765,
+            "SMAPE": 68.96717127411897,
+            "MASE": 1.7817601607630713,
+            "RMSSE": 1.0122666918438998,
+            "R2": 0.571495829120202,
+            "NMAE": 0.5041379474154365,
+            "NRMSE": 0.6782709825773467,
+            "STD_ERRORS": 1.7322158301257315
+        },
+        "test": {
+            "MAE": 1.7226594817468164,
+            "RMSE": 1.9931188482237094,
+            "SMAPE": 80.05938488582304,
+            "MASE": 1.9575446884789325,
+            "RMSSE": 0.9732852853129355,
+            "R2": 0.2665527113616266,
+            "NMAE": 0.7728546257358061,
+            "NRMSE": 0.8941936220203681,
+            "STD_ERRORS": 1.651417047668236,
+            "FIT_TIME_TOTAL": 0.46826958656311035,
+            "PREDICT_TIME_TOTAL": 0.23895621299743652,
+            "FIT_TIME_AVG": 0.46826958656311035,
+            "PREDICT_TIME_AVG": 0.23895621299743652
+        }
+    }
+}

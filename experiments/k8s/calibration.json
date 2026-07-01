@@ -1,0 +1,32 @@
+{
+  "app_a": {
+    "cpu": {
+      "peak_cpu_cores": 10.0,
+      "peak_rps": 297
+    },
+    "ram": {
+      "min_memory_mb": 1024,
+      "max_memory_mb": 8192
+    }
+  },
+  "app_b": {
+    "cpu": {
+      "peak_cpu_cores": 10.0,
+      "peak_rps": 297
+    },
+    "ram": {
+      "min_memory_mb": 1024,
+      "max_memory_mb": 8192
+    }
+  },
+  "app_c": {
+    "cpu": {
+      "peak_cpu_cores": 10.0,
+      "peak_rps": 297
+    },
+    "ram": {
+      "min_memory_mb": 1024,
+      "max_memory_mb": 8192
+    }
+  }
+}

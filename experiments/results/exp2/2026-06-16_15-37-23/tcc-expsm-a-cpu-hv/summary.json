@@ -1,0 +1,52 @@
+{
+  "namespace": "tcc-expsm-a-cpu-hv",
+  "model_name": "ExponentialSmoothing",
+  "dataset_slug": "a-cpu",
+  "scaling_mode": "combined",
+  "total_cycles": 337,
+  "total_duration_seconds": 7569.7,
+  "prediction_metrics": {
+    "cpu": {
+      "MAE": 0.14727704570718558,
+      "RMSE": 0.21043977961133542,
+      "R2": 0.9196142170812046,
+      "BIAS": 0.002027770543431718
+    },
+    "ram": {
+      "MAE": 0.2628591738870007,
+      "RMSE": 0.43482217447834065,
+      "R2": 0.9847178723529352,
+      "BIAS": 0.0441093091203935
+    }
+  },
+  "operational_metrics": {
+    "sla_cpu_violation_count": 74,
+    "sla_cpu_violation_rate": 0.2195845697329377,
+    "mtbv_cpu_seconds": 102.3,
+    "sla_ram_violation_count": 79,
+    "sla_ram_violation_rate": 0.2344213649851632,
+    "mtbv_ram_seconds": 95.8,
+    "overprovision_cpu_minutes": 43.25,
+    "waste_ratio_cpu": 0.5134,
+    "overprovision_ram_minutes": 4.5,
+    "waste_ratio_ram": 0.0534,
+    "oscillation_horizontal_count": 33,
+    "oscillation_vertical_count": 6,
+    "scale_up_horizontal_count": 30,
+    "scale_down_horizontal_count": 24,
+    "scale_up_vertical_count": 9,
+    "scale_down_vertical_count": 11,
+    "pod_restart_count": 49,
+    "avg_replicas": 2.91,
+    "avg_memory_mb": 5397.48,
+    "refit_skip_count": 95,
+    "avg_fit_time_cpu_seconds": 0.23540856399407592,
+    "max_fit_time_cpu_seconds": 2.943890395999915,
+    "avg_predict_time_cpu_seconds": 0.015077559798167113,
+    "max_predict_time_cpu_seconds": 0.3496510369996031,
+    "avg_fit_time_ram_seconds": 0.06533407812465977,
+    "max_fit_time_ram_seconds": 1.1380563530001382,
+    "avg_predict_time_ram_seconds": 0.017171806786339373,
+    "max_predict_time_ram_seconds": 0.36695182699986617
+  }
+}

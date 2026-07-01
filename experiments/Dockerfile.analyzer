@@ -1,0 +1,4 @@
+FROM python:3.9.25
+WORKDIR /app
+COPY k8s/analyze_requirements.txt analyze-reqs.txt
+RUN pip install -r analyze-reqs.txt

@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scaler
+  namespace: {{ namespace_name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: scaler
+  template:
+    metadata:
+      labels:
+        app: scaler
+    spec:
+      serviceAccountName: custom-scaler
+      containers:
+        - name: scaler
+          image: tcc/scaler:latest
+          imagePullPolicy: Never
+          env:
+            {% for key, value in scaler_env.items() %}
+            - name: {{ key }}
+              value: "{{ value }}"
+            {% endfor %}
+          volumeMounts:
+            - name: results
+              mountPath: /results
+      volumes:
+        - name: results
+          emptyDir: {}

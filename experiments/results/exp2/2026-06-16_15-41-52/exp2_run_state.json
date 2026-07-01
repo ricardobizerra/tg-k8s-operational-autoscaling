@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "config": {
+    "models": [
+      "ExponentialSmoothing"
+    ],
+    "datasets": [
+      "c-cpu"
+    ],
+    "scaling_modes": [
+      "combined"
+    ],
+    "trace_step_seconds": 30,
+    "trace_days": 30,
+    "batch_size": 1,
+    "cpu_trace_step_seconds": 15,
+    "ram_trace_step_seconds": 15
+  },
+  "completed": [
+    "tcc-expsm-c-cpu-hv"
+  ],
+  "failed": [],
+  "pending": [],
+  "started_at": "2026-06-16T15:41:52.056980+00:00",
+  "last_updated": "2026-06-16T17:49:07.949972+00:00"
+}

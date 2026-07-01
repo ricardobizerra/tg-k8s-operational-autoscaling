@@ -1,0 +1,23 @@
+/usr/local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/usr/local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+2026-06-16T20:21:42 [INFO] scaler.main — Scaler starting: namespace=tcc-prophet-a-cpu-hv model=Prophet dataset=a-cpu mode=combined
+2026-06-16T20:21:42 [INFO] scaler.main — Scale Engine active: VM Cores=5.00, VM RAM=8.00GB | Real Cores=48.00, Real RAM=384.00GB
+2026-06-16T20:21:47 [WARNING] darts.models — The statsforecast module could not be imported. To enable support for the StatsForecastAutoARIMA, StatsForecastETS and Croston models, please consider installing it.
+2026-06-16T20:21:47 [INFO] predictor — Model loaded: Prophet | dataset_slug=a-cpu | run_dir=/app/experiments/results/cegedim_application_A_CPU_exp1/Prophet/20260609_011313
+2026-06-16T20:21:47 [INFO] predictor — Model loaded: Prophet | dataset_slug=a-ram | run_dir=/app/experiments/results/cegedim_application_A_RAM_exp1/Prophet/20260609_011313
+2026-06-16T20:21:47 [INFO] predictor — Secondary model loaded for combined mode: slug=a-ram
+2026-06-16T20:21:47 [INFO] k8s_scaler — Using in-cluster Kubernetes config
+2026-06-16T20:21:47 [INFO] metrics_recorder — MetricsRecorder: initialized scaling and warmup logs in /results
+2026-06-16T20:21:47 [INFO] scaler.main — Bootstrapping history: 30 minutes at 15s steps
+2026-06-16T20:21:47 [INFO] scaler.main — Bootstrap complete: cpu=121 rows, ram=121 rows
+2026-06-16T20:21:47 [INFO] predictor — fit_predict.history: rows=121 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 19:51:45'), 'Total_Usage': 3.575872203999233}, {'timestamp_date_format': Timestamp('2026-06-16 19:52:00'), 'Total_Usage': 3.162114484513756}, {'timestamp_date_format': Timestamp('2026-06-16 19:52:15'), 'Total_Usage': 3.1285871586113267}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 20:21:15'), 'Total_Usage': 2.614588904949509}, {'timestamp_date_format': Timestamp('2026-06-16 20:21:30'), 'Total_Usage': 3.185708078777415}, {'timestamp_date_format': Timestamp('2026-06-16 20:21:45'), 'Total_Usage': 3.5754858024994736}]
+2026-06-16T20:21:47 [INFO] predictor — fit_predict.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 20:22:00'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 20:22:00'), 'Total_Usage': 0.0}]
+2026-06-16T20:21:47 [INFO] predictor — fit_predict.raw_pred=9.165625199119185 freq=15S
+2026-06-16T20:21:47 [INFO] predictor — fit_predict_secondary.history: rows=121 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 19:51:45'), 'Total_Usage': 238.8489990234375}, {'timestamp_date_format': Timestamp('2026-06-16 19:52:00'), 'Total_Usage': 238.7962646484375}, {'timestamp_date_format': Timestamp('2026-06-16 19:52:15'), 'Total_Usage': 238.704345703125}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 20:21:15'), 'Total_Usage': 223.2191162109375}, {'timestamp_date_format': Timestamp('2026-06-16 20:21:30'), 'Total_Usage': 220.02996826171875}, {'timestamp_date_format': Timestamp('2026-06-16 20:21:45'), 'Total_Usage': 220.02996826171875}]
+2026-06-16T20:21:47 [INFO] predictor — fit_predict_secondary.test_df: rows=1 freq=15S head=[{'timestamp_date_format': Timestamp('2026-06-16 20:22:00'), 'Total_Usage': 0.0}] tail=[{'timestamp_date_format': Timestamp('2026-06-16 20:22:00'), 'Total_Usage': 0.0}]
+2026-06-16T20:21:47 [INFO] predictor — fit_predict_secondary.raw_pred=275.21947416657156 freq=15S
+2026-06-16T20:21:47 [INFO] k8s_scaler — Ignoring vertical scale-down during 120s startup grace period.
+2026-06-16T20:21:47 [INFO] k8s_scaler — Patching replicas → 2
+2026-06-16T20:21:47 [INFO] scaler.main — Cycle 0 | cpu=0.372→9.166 replicas=3→2 | ram=4.584GB→275.219GB mem=3072MB→3072MB | h=scale_down v=cooldown | sla_cpu=False sla_ram=False

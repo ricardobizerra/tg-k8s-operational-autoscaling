@@ -1,0 +1,52 @@
+{
+  "namespace": "tcc-ens-expsm-fft-prophet-c-cpu-hv",
+  "model_name": "Ensemble",
+  "dataset_slug": "c-cpu",
+  "scaling_mode": "combined",
+  "total_cycles": 337,
+  "total_duration_seconds": 7569.6,
+  "prediction_metrics": {
+    "cpu": {
+      "MAE": 0.08160199596157701,
+      "RMSE": 0.11326797021538594,
+      "R2": 0.1415338417860399,
+      "BIAS": -0.012473336154413478
+    },
+    "ram": {
+      "MAE": 1.924493274723266,
+      "RMSE": 2.519653426370178,
+      "R2": 0.3232189510374681,
+      "BIAS": -0.594735943069705
+    }
+  },
+  "operational_metrics": {
+    "sla_cpu_violation_count": 17,
+    "sla_cpu_violation_rate": 0.050445103857566766,
+    "mtbv_cpu_seconds": 445.3,
+    "sla_ram_violation_count": 198,
+    "sla_ram_violation_rate": 0.5875370919881305,
+    "mtbv_ram_seconds": 38.2,
+    "overprovision_cpu_minutes": 0.25,
+    "waste_ratio_cpu": 0.003,
+    "overprovision_ram_minutes": 31.0,
+    "waste_ratio_ram": 0.368,
+    "oscillation_horizontal_count": 1,
+    "oscillation_vertical_count": 4,
+    "scale_up_horizontal_count": 1,
+    "scale_down_horizontal_count": 1,
+    "scale_up_vertical_count": 11,
+    "scale_down_vertical_count": 9,
+    "pod_restart_count": 21,
+    "avg_replicas": 1.0,
+    "avg_memory_mb": 7198.39,
+    "refit_skip_count": 186,
+    "avg_fit_time_cpu_seconds": 0.4013335949851593,
+    "max_fit_time_cpu_seconds": 1.7437423259998468,
+    "avg_predict_time_cpu_seconds": 0.023006833347225107,
+    "max_predict_time_cpu_seconds": 0.28680272400015383,
+    "avg_fit_time_ram_seconds": 0.4833696475459804,
+    "max_fit_time_ram_seconds": 1.6094577130006655,
+    "avg_predict_time_ram_seconds": 0.02107572087535585,
+    "max_predict_time_ram_seconds": 0.271801000000778
+  }
+}

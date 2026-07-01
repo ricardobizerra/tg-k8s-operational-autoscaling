@@ -1,0 +1,60 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: target-app
+  namespace: {{ namespace_name }}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: target-app
+  template:
+    metadata:
+      labels:
+        app: target-app
+    spec:
+      terminationGracePeriodSeconds: 45
+      containers:
+        - name: target-app
+          image: tcc/target-app:latest
+          imagePullPolicy: Never
+          lifecycle:
+            preStop:
+              exec:
+                command: ["/bin/sleep", "10"]
+          env:
+            - name: MALLOC_ARENA_MAX
+              value: "1"
+          ports:
+            - containerPort: 8000
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 2
+            periodSeconds: 2
+            failureThreshold: 3
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "{{ initial_memory_mb }}Mi"
+            limits:
+              cpu: "{{ cpu_limit_cores }}"
+              memory: "{{ initial_memory_mb }}Mi"
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: target-app
+  namespace: {{ namespace_name }}
+spec:
+  type: NodePort
+  selector:
+    app: target-app
+  ports:
+    - port: 8000
+      targetPort: 8000
+      # node_port allocated by orchestrator; range 30100–30199 per experiment namespace.
+      nodePort: {{ node_port }}
